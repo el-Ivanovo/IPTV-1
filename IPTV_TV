@@ -2,7 +2,8 @@
 #EXTINF:-1,Discovery Science
 http://live-ng-01.more.tv/hls/Discovery_Science_HD/index_1.m3u8
 #EXTINF:-1,Galaxy
-http://178.163.87.168:4022/udp/234.0.0.111:2000
+
+http://193.233.191.221:999/udp/239.191.255.46:13343
 #EXTINF:-1,Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1,Наука 2.0
@@ -45,8 +46,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ТНТ4
 https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
-#EXTINF:-1,Сарафан
-http://vs-msk-02.tv.ti.ru:80/dtv/id160_NBN_SG--Sarafan/03/plst.m3u8
 #EXTINF:-1,Ностальгия
 http://178.217.72.66/225.201.2.17/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ТВ Центр
@@ -106,8 +105,6 @@ http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 http://31.41.100.246:81/udp/225.0.55.109:1234
 #EXTINF:-1,КРТ
 http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
-#EXTINF:-1,Беларусь 24
-http://vs-msk-02.tv.ti.ru:80/dtv/id600_NBN_SG--belarus24/03/plst.m3u8
 #EXTINF:-1,Disney канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Cartoon Network
@@ -122,10 +119,8 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 #EXTINF:-1,М2
 http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1,VH1 European
-http://95.183.17.154:4021/udp/239.10.1.88:5000
 #EXTINF:-1,VH1 Classic
-http://vs-msk-02.tv.ti.ru:80/dtv/id146_NBN_SG--VH1Class/03/plst.m3u8
+http://213.231.51.13:33620/udp/224.5.3.148:1234
 #EXTINF:-1,MusicBox
 http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music
