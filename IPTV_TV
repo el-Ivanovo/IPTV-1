@@ -2,7 +2,6 @@
 #EXTINF:-1,Discovery Science
 http://live-ng-01.more.tv/hls/Discovery_Science_HD/index_1.m3u8
 #EXTINF:-1,Galaxy
-
 http://193.233.191.221:999/udp/239.191.255.46:13343
 #EXTINF:-1,Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
@@ -101,8 +100,6 @@ https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/chunks.m3u8
 http://188.35.9.11:2001/index.m3u8
 #EXTINF:-1,Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1,Интер+
-http://31.41.100.246:81/udp/225.0.55.109:1234
 #EXTINF:-1,КРТ
 http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
 #EXTINF:-1,Disney канал
@@ -119,12 +116,12 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 #EXTINF:-1,М2
 http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1,VH1 Classic
-http://213.231.51.13:33620/udp/224.5.3.148:1234
 #EXTINF:-1,MusicBox
 http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1,Fox News Channel
+http://23.105.171.47:8000/CgZA/WY1XdP77fP/380
 #EXTINF:-1,BBC World News
 http://iptv1.privateiptv.club:80/freeview/freeview/825
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",Deutsche Welle English
