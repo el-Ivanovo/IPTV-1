@@ -2,7 +2,6 @@
 #EXTINF:-1,Discovery Science
 http://live-ng-01.more.tv/hls/Discovery_Science_HD/index_1.m3u8
 #EXTINF:-1,Galaxy
-
 http://95.181.234.122:999/udp/239.191.255.46:13343
 #EXTINF:-1,Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
