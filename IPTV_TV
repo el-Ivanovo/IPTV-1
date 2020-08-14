@@ -122,6 +122,10 @@ http://live.m2.tv/hls3/stream.m3u8
 http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1,VH1 European
+http://play.megafon.tv/out/u/v1-video-6361994.mpd
+#EXTINF:-1,Vh1 Classic
+http://play.megafon.tv/out/u/v1-video-6348364.mpd
 #EXTINF:-1,Fox News Channel
 http://ingrid.ltd:25461/Juan123456/Juan123456/21783
 #EXTINF:-1,BBC World News
