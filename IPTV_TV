@@ -2,7 +2,7 @@
 #EXTINF:-1,Discovery Science
 http://live-ng-01.more.tv/hls/Discovery_Science_HD/index_1.m3u8
 #EXTINF:-1,Galaxy
-http://95.181.234.122:999/udp/239.191.255.46:13343
+http://play.megafon.tv/out/u/v1-video-6361993.mpd
 #EXTINF:-1,Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1,Наука 2.0
@@ -57,9 +57,11 @@ http://fr01.spr24.net/5673/index.m3u8?token=rCEqTFvRhtEvXt
 http://hlstv.kem.211.ru/239.211.200.34/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
 #EXTINF:-1,Евроновости
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+http://play.megafon.tv/out/u/v1-video-5308467.mpd
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,NewsOne
+https://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bC7Dtnf.jpg",Общественное Независимое Телевидение
@@ -123,7 +125,7 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1,Fox News Channel
 http://ingrid.ltd:25461/Juan123456/Juan123456/21783
 #EXTINF:-1,BBC World News
-http://localhd.tv:8081/test/12345/10878
+http://dvblink.familievanbeek.nl:8201/dvblink/direct?client=628201cb-d066-4194-a77a-c074d56d600f&channel=10100000
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",Deutsche Welle English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1,France 24 English
