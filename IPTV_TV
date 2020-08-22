@@ -104,6 +104,8 @@ http://188.35.9.11:2001/index.m3u8
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1,КРТ
 http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
+#EXTINF:-1,Каббала ТВ
+http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1,Disney канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Cartoon Network
