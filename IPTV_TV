@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://iptv-content.webhop.net/guide.xml,https://epg.ovh/pl/plar.xml" refresh="1800"
+#EXTM3U url-tvg="http://iptv-content.webhop.net/guide.xml,https://iptvx.one/EPG,https://epg.ovh/pl/plar.xml" refresh="1800"
 #EXTINF:-1,Discovery Science
 http://live-ng-01.more.tv/hls/Discovery_Science_HD/index_1.m3u8
 #EXTINF:-1,Galaxy
