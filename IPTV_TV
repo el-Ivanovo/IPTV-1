@@ -146,8 +146,8 @@ http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1,English Club TV
 http://play.megafon.tv/out/u/v1-video-6782103.mpd
-#EXTINF:-1,TVP Info
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
+#EXTINF:-1,SFERATV
+http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/chunklist_b1128000_slpl.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6cTEbzA.jpg",POLSAT News 2
 http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
 #EXTINF:-1,POLSAT Cafe
