@@ -148,7 +148,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv
 http://play.megafon.tv/out/u/v1-video-6782103.mpd
 #EXTINF:-1 tvg-logo="https://imgur.com/2vnsPXd.jpg",SFERA TV
 http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/chunklist_b1128000_slpl.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/6cTEbzA.jpg",POLSAT NEWS 2
+#EXTINF:-1 tvg-logo="https://imgur.com/6cTEbzA.jpg",Polsat News 2
 http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
 #EXTINF:-1,POLSAT Cafe
 http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8
