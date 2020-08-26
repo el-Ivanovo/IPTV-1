@@ -120,8 +120,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 #EXTINF:-1,М2
 http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1,MusicBox
-http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1,VH1 European
@@ -131,7 +129,7 @@ http://play.megafon.tv/out/u/v1-video-6348364.mpd
 #EXTINF:-1,Mezzo Live HD
 http://play.megafon.tv/out/u/v1-video-7731481.mpd
 #EXTINF:-1,Fox News Channel
-http://ingrid.ltd:25461/Juan123456/Juan123456/21783
+http://main.realiptv.to:25461/admin/admin/2543
 #EXTINF:-1,CNN
 http://play.megafon.tv/out/u/v1-video-5308462.mpd
 #EXTINF:-1,BBC World News
@@ -146,8 +144,6 @@ http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1,English Club TV
 http://play.megafon.tv/out/u/v1-video-6782103.mpd
-#EXTINF:-1 tvg-logo="https://imgur.com/2vnsPXd.jpg",SFERA TV
-http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/chunklist_b1128000_slpl.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6cTEbzA.jpg",Polsat News 2
 http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
 #EXTINF:-1,POLSAT Cafe
