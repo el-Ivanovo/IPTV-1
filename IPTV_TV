@@ -102,7 +102,7 @@ https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/chunks.m3u8
 http://188.35.9.11:2001/index.m3u8
 #EXTINF:-1,Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1,Каббала ТВ
+#EXTINF:-1 tvg-logo="https://imgur.com/KNOuLKm.jpg",Каббала ТВ
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1,Disney канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
@@ -127,7 +127,7 @@ http://play.megafon.tv/out/u/v1-video-6348364.mpd
 #EXTINF:-1,Mezzo Live HD
 http://play.megafon.tv/out/u/v1-video-7731481.mpd
 #EXTINF:-1,Fox News Channel
-http://main.realiptv.to:25461/admin/admin/2543
+http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/7254
 #EXTINF:-1,CNN
 http://play.megafon.tv/out/u/v1-video-5308462.mpd
 #EXTINF:-1,BBC World News
