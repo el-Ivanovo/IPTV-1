@@ -10,11 +10,11 @@ http://188.168.24.1:81/udp/226.100.10.197:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/GzJ68m9.jpg",Love Nature 4K
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSHD.m3u8
 #EXTINF:-1,Viasat Nature
-http://live-ng-01.more.tv/hls/Viasat_Nature_HD/index_1.m3u8
+http://dmitry-tv.my1.ru/his/02/CH_VIASATNATUREHD.m3u8
 #EXTINF:-1,Viasat Explore
-http://live-ng-01.more.tv/hls/Viasat_Explore_HD/index_1.m3u8
+http://dmitry-tv.my1.ru/his/02/CH_VIASATEXPLOREHD.m3u8
 #EXTINF:-1,Viasat History
-http://live-ng-01.more.tv/hls/Viasat_History_HD/index_1.m3u8
+http://dmitry-tv.my1.ru/his/02/CH_VIASATHISTORYHD.m3u8
 #EXTINF:-1,История
 http://78.29.1.69/live/istoriya/copy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
@@ -54,7 +54,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,RTVi
 http://fr01.spr24.net/5673/index.m3u8?token=rCEqTFvRhtEvXt
 #EXTINF:-1,Дождь
-http://109.237.146.253:81/udp/239.1.13.6:1234
+http://dmitry-tv.my1.ru/his/yatv/CH_DOZHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
 #EXTINF:-1,Евроновости
 http://play.megafon.tv/out/u/v1-video-5308467.mpd
