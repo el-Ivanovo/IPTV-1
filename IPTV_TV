@@ -56,7 +56,7 @@ http://user69050.clients-cdnnow.ru/stream/rain/index.m3u8
 #EXTINF:-1,RTVi
 http://imedi-tv.cdn.xsg.ge/rtvi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-b.m3u8?sd=10&rebase=on
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Евроновости
 http://play.megafon.tv/out/u/v1-video-5308467.mpd
 #EXTINF:-1,NewsOne
