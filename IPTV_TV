@@ -47,10 +47,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Сарафан
 http://178.163.47.192:4022/udp/234.0.0.246:2000
-#EXTINF:-1,Ностальгия
-http://46.160.165.58:81/udp/239.254.2.105:1234
 #EXTINF:-1,ТВ Центр
 http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_TVC/variant.m3u8?version=2
+#EXTINF:-1,Ностальгия
+http://109.248.90.33:4044/udp/239.195.1.102:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Дождь
@@ -123,12 +123,6 @@ http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1,VH1 European
-http://79.105.238.1:5055/udp/239.4.10.27:2020
-#EXTINF:-1,VH1 Classic
-http://213.108.176.138:7781/udp/239.134.91.54:1234
-#EXTINF:-1,Mezzo Live HD
-http://46.160.165.58:81/udp/239.254.2.142:1234
 #EXTINF:-1,Fox News Channel
 http://ingrid.ltd:25461/berny/berny1234/21783
 #EXTINF:-1,CNN
