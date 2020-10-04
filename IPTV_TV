@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://iptv-content.webhop.net/guide.xml,https://iptvx.one/EPG,https://epg.ovh/pl/plar.xml" refresh="1800"
 #EXTINF:-1,Discovery Science
-http://live-ng-01.more.tv/hls/Discovery_Science_HD/index_1.m3u8
+http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 #EXTINF:-1,Galaxy
 http://178.163.55.219:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Da Vinci
@@ -110,7 +110,7 @@ http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1,Disney канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Cartoon Network
-http://live-ng-01.more.tv/hls/Cartoon_Network_HD/master.m3u8
+http://178.217.72.66/225.201.2.73/index.m3u8
 #EXTINF:-1,2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://imgur.com/p8DhHPx.jpg",Шансон-TB
