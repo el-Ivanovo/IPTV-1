@@ -39,6 +39,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1,НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1,ТВ Центр
+http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_TVC/variant.m3u8?version=2
 #EXTINF:-1,СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Че
@@ -47,8 +49,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Сарафан
 http://178.163.47.192:4022/udp/234.0.0.246:2000
-#EXTINF:-1,ТВ Центр
-http://rt-mos-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_TVC/variant.m3u8?version=2
 #EXTINF:-1,Ностальгия
 http://109.248.90.33:4044/udp/239.195.1.102:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
@@ -109,8 +109,6 @@ http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1,Disney канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Cartoon Network
-http://178.217.72.66/225.201.2.73/index.m3u8
 #EXTINF:-1,2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://imgur.com/p8DhHPx.jpg",Шансон-TB
