@@ -6,7 +6,7 @@ http://178.163.13.244:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Da Vinci
 http://imedi-tv.cdn.xsg.ge/davinci/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Наука 2.0
-http://31.210.170.39:8280/fre/ch167/index.m3u8
+http://178.163.92.123:4022/udp/234.0.0.226:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/GzJ68m9.jpg",Love Nature 4K
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSHD.m3u8
 #EXTINF:-1,Viasat Nature
@@ -122,7 +122,7 @@ http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1,CNN
-http://178.217.72.66/225.201.2.20/index.m3u8
+http://c2.abcnew.site:8880/XHCN5VJgcs/h3B3e8NrZb/2939
 #EXTINF:-1,BBC World News
 http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",Deutsche Welle English
