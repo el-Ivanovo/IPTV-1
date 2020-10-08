@@ -86,7 +86,7 @@ http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 #EXTINF:-1,112 Украина
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1,Громадське
-http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+http://api.tv.ipnet.ua/api/v1/manifest/139947023.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ro8pQ6P.jpg",Прямий
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1,Еспресо
@@ -122,7 +122,7 @@ http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1,CNN
-http://5.16.53.120:81/udp/235.10.10.234:1234
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/881?checkedby:iptvcat.com
 #EXTINF:-1,BBC World News
 http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",Deutsche Welle English
