@@ -9,12 +9,6 @@ http://imedi-tv.cdn.xsg.ge/davinci/tracks-v1a1/mono.m3u8
 http://178.163.92.123:4022/udp/234.0.0.226:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/GzJ68m9.jpg",Love Nature 4K
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSHD.m3u8
-#EXTINF:-1,Viasat Nature
-http://dmitry-tv.my1.ru/his/02/CH_VIASATNATUREHD.m3u8
-#EXTINF:-1,Viasat Explore
-http://dmitry-tv.my1.ru/his/02/CH_VIASATEXPLOREHD.m3u8
-#EXTINF:-1,Viasat History
-http://dmitry-tv.my1.ru/his/02/CH_VIASATHISTORYHD.m3u8
 #EXTINF:-1,История
 http://78.29.1.69/live/istoriya/copy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
@@ -48,13 +42,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version
 #EXTINF:-1,ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,Сарафан
-http://91.190.183.235:81/udp/239.195.4.97:1234
+http://85.192.51.144:20000/udp/224.0.42.157:5000
 #EXTINF:-1,Ностальгия
 http://178.163.64.9:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Дождь
-http://89.208.88.187:5050/udp/224.0.42.112:5000
+http://85.192.51.144:20000/udp/224.0.42.112:5000
 #EXTINF:-1,RTVi
 http://imedi-tv.cdn.xsg.ge/rtvi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
