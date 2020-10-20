@@ -46,7 +46,7 @@ http://178.163.64.9:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Дождь
-http://85.192.51.144:20000/udp/224.0.42.112:5000
+http://79.137.153.246:5050/udp/224.0.42.112:5000
 #EXTINF:-1,RTVi
 http://imedi-tv.cdn.xsg.ge/rtvi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
