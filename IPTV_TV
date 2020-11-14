@@ -4,7 +4,7 @@ http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 #EXTINF:-1,Galaxy
 http://178.163.22.172:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Da Vinci
-http://5.18.108.153:81/udp/235.10.10.88:1234
+http://37.194.189.54:81/udp/239.1.5.6:1234
 #EXTINF:-1,Наука
 http://178.163.92.123:4022/udp/234.0.0.226:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/GzJ68m9.jpg",Love Nature 4K
