@@ -4,19 +4,17 @@ http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 #EXTINF:-1,Galaxy
 http://178.163.22.172:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Da Vinci
-http://37.194.189.54:81/udp/239.1.5.6:1234
+https://sc.id-tv.kz/DaVinci_38_39.m3u8
 #EXTINF:-1,Наука
-http://178.163.92.123:4022/udp/234.0.0.226:2000
+http://178.163.38.14:4022/udp/234.0.0.226:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/GzJ68m9.jpg",Love Nature 4K
 http://dmitry-tv.my1.ru/his/zabava/02/CH_LOVENATURE4K_HLSUHD.m3u8
-#EXTINF:-1,Viasat Nature
-http://176.111.65.90:1234/udp/224.1.1.95:1234
 #EXTINF:-1,Viasat Explore
 http://46.241.56.19:81/udp/239.54.5.92:1234
 #EXTINF:-1,Viasat History
-http://176.111.67.14:1234/udp/224.1.1.94:1234
+http://176.51.104.237:1234/udp/233.7.70.17:5000
 #EXTINF:-1,История
-http://89.208.137.5:20000/udp/224.0.42.147:5000
+http://89.208.205.139:5050/udp/224.0.42.147:5000
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mdNxnEA.jpg",Eurosport 4K
@@ -45,8 +43,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Сарафан
-http://89.208.205.139:5050/udp/224.0.42.157:5000
 #EXTINF:-1,Ностальгия
 http://178.163.64.9:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
@@ -115,12 +111,10 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1,Russian MusicBox
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
-#EXTINF:-1,М2
-http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music Television
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1,CNN
-http://mains.vip:2086/aa/aa/64140
+#EXTINF:-1,М2
+http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1,BBC World News
 http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",Deutsche Welle English
