@@ -12,7 +12,7 @@ http://dmitry-tv.my1.ru/his/zabava/02/CH_LOVENATURE4K_HLSUHD.m3u8
 #EXTINF:-1,Viasat History
 http://176.51.104.237:1234/udp/233.7.70.17:5000
 #EXTINF:-1,История
-http://89.208.205.139:5050/udp/224.0.42.147:5000
+http://62.76.17.243:81/udp/239.195.4.91:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mdNxnEA.jpg",Eurosport 4K
