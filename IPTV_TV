@@ -10,7 +10,7 @@ http://178.163.38.14:4022/udp/234.0.0.226:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/GzJ68m9.jpg",Love Nature 4K
 http://dmitry-tv.my1.ru/his/zabava/02/CH_LOVENATURE4K_HLSUHD.m3u8
 #EXTINF:-1,Viasat History
-http://176.111.64.8:1234/udp/224.1.1.94:1234
+http://95.189.153.200:1234/udp/233.7.70.17:5000
 #EXTINF:-1,История
 http://62.76.17.243:81/udp/239.195.4.91:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
@@ -46,7 +46,7 @@ http://178.163.64.9:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Дождь
-http://192.162.212.48/dozhd/mpegts
+http://89.208.205.139:5050/udp/224.0.42.112:5000
 #EXTINF:-1,RTVi
 http://188.93.95.67/rtvi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
