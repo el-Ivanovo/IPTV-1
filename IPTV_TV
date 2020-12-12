@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptv-content.webhop.net/guide.xml,https://iptvx.one/EPG"
+#EXTM3U url-tvg="http://iptv-content.webhop.net/guide.xml,https://iptvx.one/EPG,http://epg.iptvx.tv/xmltv.xml.gz,http://epg.it999.ru/epg2.xml.gz"
 #EXTINF:-1,Discovery Science
 http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 #EXTINF:-1,Galaxy
