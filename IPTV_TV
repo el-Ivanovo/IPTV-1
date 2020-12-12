@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptv-content.webhop.net/guide.xml,https://iptvx.one/EPG,http://programtv.ru/xmltv.xml.gz,http://st.kineskop.tv/epg.xml.gz,https://static.mediatech.by/epg.xml,http://georgemikl.ucoz.ru/epg/xmltv.xml.gz,http://dortmundez.ucoz.net/epg/epg.xml.gz,https://github.com/iFrez/EPG-EdemTV/raw/master/edem.xml.gz"
+#EXTM3U url-tvg="http://iptv-content.webhop.net/guide.xml,https://iptvx.one/EPG,http://georgemikl.ucoz.ru/epg/xmltv.xml.gz,http://epg.it999.ru/edem.xml.gz,https://webarmen.com/my/iptv/xmltv.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz"
 #EXTINF:-1,Discovery Science
 http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 #EXTINF:-1,Galaxy
