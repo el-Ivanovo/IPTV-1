@@ -3,12 +3,10 @@
 http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 #EXTINF:-1,Galaxy
 http://178.163.22.172:4022/udp/234.0.0.111:2000
-#EXTINF:-1,Da Vinci
-http://46.50.211.4:81/udp/239.54.5.95:1234
 #EXTINF:-1,Наука
 http://178.163.38.14:4022/udp/234.0.0.226:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/GzJ68m9.jpg",Love Nature 4K
-http://dmitry-tv.my1.ru/his/zabava/02/CH_LOVENATURE4K_HLSUHD.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
 #EXTINF:-1,История
 http://194.4.151.155:81/udp/239.195.4.91:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
@@ -16,7 +14,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mdNxnEA.jpg",Eurosport 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sk7a59H.jpg",UltraHD Cinema 4K
-http://dmitry-tv.my1.ru/his/zabava/04/CH_ULTRAHDCINEMA_HLSUHD.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
 #EXTINF:-1,Первый канал
 http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 #EXTINF:-1,Россия 1 HD
