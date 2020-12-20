@@ -113,12 +113,12 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6cTEbzA.jpg",POLSAT News 2
+http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
+#EXTINF:-1,POLSAT Cafe
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/2285.ts
 #EXTINF:-1,TVP Polonia
 http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/2288.ts
-#EXTINF:-1,Polsat News 2
-http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
-#EXTINF:-1,Polsat Cafe
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/2285.ts
 #EXTINF:-1,TVP Kultura
 http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/2287.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/fBRAxns.jpg",TV Republika
