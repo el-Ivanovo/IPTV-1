@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://iptv-content.webhop.net/guide.xml"
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1,Discovery Science
 http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 #EXTINF:-1,Galaxy
@@ -115,9 +115,9 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1,TVP Polonia
 http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/2288.ts
-#EXTINF:-1,POLSAT News 2
+#EXTINF:-1,Polsat News 2
 http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
-#EXTINF:-1,POLSAT Cafe
+#EXTINF:-1,Polsat Cafe
 http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/2285.ts
 #EXTINF:-1,TVP Kultura
 http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/2287.ts
