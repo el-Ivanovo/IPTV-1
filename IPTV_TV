@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://iptv-content.webhop.net/guide.xml,https://iptvx.one/EPG"
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://iptv-content.webhop.net/guide.xml"
 #EXTINF:-1,Discovery Science
 http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 #EXTINF:-1,Galaxy
@@ -57,8 +57,6 @@ https://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/tracks-v1a1/mono.m3u8
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bC7Dtnf.jpg",Общественное Независимое Телевидение
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/1ubBeLG.jpg",Перший незалежний
-http://95.67.12.149:9004
 #EXTINF:-1 tvg-logo="https://imgur.com/HuCy6Mr.jpg",Центральный канал
 http://159.224.182.177:8080/Live/stream_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kgAIiIJ.jpg",UA: Перший Ukraine
@@ -73,8 +71,6 @@ http://95.67.12.149:9005
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 #EXTINF:-1,112 Украина
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1,Громадське
-http://api.tv.ipnet.ua/api/v1/manifest/139947023.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ro8pQ6P.jpg",Прямий
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1,Еспресо
@@ -117,9 +113,13 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/6cTEbzA.jpg",Polsat News 2
+#EXTINF:-1,TVP Polonia
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/2288.ts
+#EXTINF:-1,POLSAT News 2
 http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
 #EXTINF:-1,POLSAT Cafe
-http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/2285.ts
+#EXTINF:-1,TVP Kultura
+http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/2287.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/fBRAxns.jpg",TV Republika
 https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
