@@ -9,8 +9,8 @@ http://178.163.38.14:4022/udp/234.0.0.226:2000
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
 #EXTINF:-1,История
 http://194.4.151.155:81/udp/239.195.4.91:1234
-#EXTINF:-1,FASHION & Lifestyle
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mdNxnEA.jpg",Eurosport 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sk7a59H.jpg",UltraHD Cinema 4K
