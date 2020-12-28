@@ -116,10 +116,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv
 #EXTINF:-1 tvg-logo="https://imgur.com/6cTEbzA.jpg",POLSAT News 2
 http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
 #EXTINF:-1,POLSAT Cafe
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/2285.ts
-#EXTINF:-1,TVP Polonia
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/2288.ts
-#EXTINF:-1,TVP Kultura
-http://89.187.191.133:8889/live/LcdfBv1UAC/E8Lh8az1pL/2287.ts
+http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fBRAxns.jpg",TV Republika
 https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
