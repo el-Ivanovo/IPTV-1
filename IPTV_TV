@@ -97,12 +97,12 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Телеканал Радио Страна ФМ" tvg-logo="https://imgur.com/5GSM497.jpg",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1,Russian MusicBox
-http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music Television
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1,М2
 http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1,VH1 Classic
+http://62.78.52.103:8000/udp/224.0.90.40:1234
 #EXTINF:-1,BBC World News
 http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",Deutsche Welle English
