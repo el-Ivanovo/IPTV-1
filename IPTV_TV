@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="http://iptv-content.webhop.net/guide.xml,https://iptvx.one/EPG,http://georgemikl.ucoz.ru/epg/xmltv.xml.gz"
-#EXTINF:-1,Discovery
-http://178.49.77.20:81/udp/239.1.5.1:1234
 #EXTINF:-1,Discovery Science
-ttp://5.19.186.190:81/udp/235.10.10.106:1234
+http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 #EXTINF:-1,Galaxy
 http://178.163.16.246:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука
@@ -12,9 +10,9 @@ http://62.76.17.90:81/udp/239.195.4.91:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,Первый канал HD
-http://185.220.35.73:8080/5a9491e1dafbf637c9740802cdcf321e/video.m3u8?token=tlcftyrlbn
+http://37.235.225.6:81/udp/225.50.66.11:1234
 #EXTINF:-1,Россия 1 HD
-http://185.220.35.73:8080/5a9491e1dafbf637c9740802cdcf321e/video.m3u8?token=tlcftyrlbn
+http://109.226.103.246:4022/udp/232.0.1.57:1234
 #EXTINF:-1,Россия К
 http://46.229.178.26:4022/udp/239.2.100.59:4321
 #EXTINF:-1,Мир HD
@@ -88,7 +86,7 @@ http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bZYoAh0.jpg",Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1M0lRxP.jpg",Melody Channel TV
-ttps://str81.creacast.com/telemelody/a8c3d16402d9e86338602664a494521c/playlist.m3u8
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:-1,BBC World News
 http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",Deutsche Welle English
