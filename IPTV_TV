@@ -12,7 +12,7 @@ http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,Первый канал HD
 http://178.163.113.143:4022/udp/234.0.0.172:2000
 #EXTINF:-1,Россия 1 HD
-http://109.226.103.246:4022/udp/232.0.1.57:1234
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,Россия К
 http://46.229.178.26:4022/udp/239.2.100.59:4321
 #EXTINF:-1,Мир HD
@@ -24,7 +24,7 @@ http://188.122.254.115:4022/udp/232.0.3.4:1234
 #EXTINF:-1,ТВ Центр
 http://iptv.ktkru.ru:8010/index.m3u8
 #EXTINF:-1,ТНТ4
-http://37.235.226.30:81/udp/225.50.66.7:1234
+http://212.20.11.28:1234/udp/225.54.205.177:5000
 #EXTINF:-1,Ностальгия
 http://178.163.64.9:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
@@ -98,4 +98,4 @@ http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
 #EXTINF:-1,POLSAT Cafe
 http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fBRAxns.jpg",TV Republika
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
+http://a1.gokakka.club:8880/testzyx030/123456789/33407
