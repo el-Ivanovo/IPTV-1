@@ -6,11 +6,11 @@ http://178.163.16.246:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука
 http://178.163.38.14:4022/udp/234.0.0.226:2000
 #EXTINF:-1,История
-http://91.190.181.152:81/udp/239.195.4.91:1234
+http://45.87.144.212:81/udp/239.195.4.91:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,Первый канал HD
-http://iptv.ktkru.ru:8001/index.m3u8
+http://81.177.222.197:4022/udp/232.0.1.20:1234
 #EXTINF:-1,Россия 1 HD
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,Россия К
@@ -24,7 +24,7 @@ http://188.122.254.115:4022/udp/232.0.3.4:1234
 #EXTINF:-1,ТВ Центр
 http://iptv.ktkru.ru:8010/index.m3u8
 #EXTINF:-1,ТНТ4
-http://37.192.119.31:81/udp/239.1.2.16:1234
+http://37.235.225.6:81/udp/225.50.66.7:1234
 #EXTINF:-1,Ностальгия
 http://178.163.64.9:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
@@ -99,7 +99,3 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv
 http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
 #EXTINF:-1,POLSAT Cafe
 http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fBRAxns.jpg",TV Republika
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/9942?checkedby:iptvcat.com
-#EXTINF:-1,TVP Kultura
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/22072?checkedby:iptvcat.com
