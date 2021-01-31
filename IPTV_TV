@@ -6,7 +6,7 @@ http://178.163.16.246:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука
 http://178.163.38.14:4022/udp/234.0.0.226:2000
 #EXTINF:-1,История
-http://45.87.144.212:81/udp/239.195.4.91:1234
+http://178.159.86.151:81/udp/239.195.4.91:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,Первый канал
@@ -33,7 +33,7 @@ http://37.194.242.99:81/udp/239.1.13.6:1234
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1,CGTN-Русский
+#EXTINF:-1 tvg-logo="https://imgur.com/LNUBAzq.jpg",CGTN-Русский
 https://liveru.cgtn.com/cctv-r.m3u8
 #EXTINF:-1,NewsOne
 https://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/tracks-v1a1/mono.m3u8
@@ -83,7 +83,7 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bZYoAh0.jpg",Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1,Retro Plus TV
+#EXTINF:-1 tvg-logo="https://imgur.com/ecjYXwS.jpg",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1,BBC World News
 http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
