@@ -7,6 +7,8 @@ http://178.163.16.246:4022/udp/234.0.0.111:2000
 http://178.163.38.14:4022/udp/234.0.0.226:2000
 #EXTINF:-1,История
 http://178.159.87.201:81/udp/239.195.4.91:1234
+#EXTINF:-1,ID Fashion
+http://idfashion-hls3.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,Первый канал
@@ -39,8 +41,6 @@ https://liveru.cgtn.com/cctv-r.m3u8
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bC7Dtnf.jpg",Общественное Независимое Телевидение
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/HuCy6Mr.jpg",Центральный канал
-http://159.224.182.177:8080/Live/stream_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GAvfrvf.jpg",UA: TV
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/cfUIl4X.jpg",UKR LIVE
