@@ -6,7 +6,7 @@ http://178.163.16.246:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука
 http://178.163.38.14:4022/udp/234.0.0.226:2000
 #EXTINF:-1,История
-http://178.159.87.201:81/udp/239.195.4.91:1234
+http://212.19.11.158:999/udp/239.191.254.164:13343
 #EXTINF:-1 tvg-logo="https://imgur.com/FRJxM50.jpg",ID Fashion
 http://idfashion-hls3.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
@@ -26,7 +26,7 @@ http://iptv.ktkru.ru:8010/index.m3u8
 #EXTINF:-1,ТНТ4
 http://37.235.225.6:81/udp/225.50.66.7:1234
 #EXTINF:-1,Ностальгия
-http://46.160.166.9:81/udp/239.254.2.105:1234
+http://109.248.90.53:4044/udp/239.195.1.102:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Дождь
@@ -92,6 +92,8 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6cTEbzA.jpg",POLSAT News 2
-http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
+http://ztvuk.com:8080/nouman/nouman/14549?checkedby:iptvcat.com
 #EXTINF:-1,POLSAT Cafe
-http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8
+http://mags.vip:2086/live/miriam/miriam123/92761.ts?checkedby:iptvcat.com
+#EXTINF:-1,TVP Kultura
+http://mags.vip:2086/live/miriam/miriam123/92821.ts?checkedby:iptvcat.com
