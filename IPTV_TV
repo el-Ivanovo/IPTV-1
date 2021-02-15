@@ -6,7 +6,7 @@ http://178.163.16.246:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука
 http://178.163.38.14:4022/udp/234.0.0.226:2000
 #EXTINF:-1,История
-http://212.19.11.158:999/udp/239.191.254.164:13343
+http://5.19.183.52:81/udp/235.10.10.225:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/FRJxM50.jpg",ID Fashion
 http://idfashion-hls3.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
@@ -30,7 +30,9 @@ http://109.248.90.53:4044/udp/239.195.1.102:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Дождь
-https://strm.yandex.ru/kal/tvrain/tvrain0_169_480p.json/index-v1-a1.m3u8
+http://37.192.101.207:81/udp/239.1.13.6:1234
+#EXTINF:-1,RTVi
+http://151.80.101.90/stream/WICQDKXT46/91.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,Евроновости
