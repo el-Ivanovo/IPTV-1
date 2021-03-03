@@ -5,8 +5,6 @@ http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 http://178.163.16.246:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука
 http://178.163.38.14:4022/udp/234.0.0.226:2000
-#EXTINF:-1,История
-http://langamepp.com/chtst/381D9F512B61508169B049BF2E070CBB0A2DAB6912502C50EB60F36F96D68D6ABACD2180ABB1E850E6
 #EXTINF:-1 ,Viasat History
 https://s1.idata.uz/stch_temp20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FRJxM50.jpg",ID Fashion
@@ -28,7 +26,7 @@ http://iptv.ktkru.ru:8010/index.m3u8
 #EXTINF:-1,ТНТ4
 http://37.235.225.6:81/udp/225.50.66.7:1234
 #EXTINF:-1,Ностальгия
-http://langamepp.com/chtst/63582E48942602B0378F5815D8885E6951681A70AD177E608A5FE6C45959DCB9D388959918F6B1608F5ED7
+http://5.128.254.228:81/udp/239.1.2.13:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Дождь
