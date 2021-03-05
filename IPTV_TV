@@ -22,11 +22,11 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1,ТВ Центр
-http://iptv.ktkru.ru:8010/index.m3u8
+http://87.248.248.10:81/udp/239.239.1.69:5239
 #EXTINF:-1,ТНТ4
 http://37.235.225.6:81/udp/225.50.66.7:1234
 #EXTINF:-1,Ностальгия
-http://5.128.254.228:81/udp/239.1.2.13:1234
+http://178.163.52.86:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Дождь
