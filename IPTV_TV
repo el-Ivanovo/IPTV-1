@@ -5,6 +5,8 @@ http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 http://178.163.16.246:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука
 http://178.163.38.14:4022/udp/234.0.0.226:2000
+#EXTINF:-1,История
+http://50.7.231.221:8081/212/index.m3u8?wmsAuthSign=1615056849p822i861i922i48S5545583bfe4a1d2f94923fbf83d5c853
 #EXTINF:-1 ,Viasat History
 https://s1.idata.uz/stch_temp20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FRJxM50.jpg",ID Fashion
