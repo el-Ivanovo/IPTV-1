@@ -30,6 +30,8 @@ http://178.163.52.86:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Дождь
+http://s2.ttranslit.com:8081/rain/index.m3u8?wmsAuthSign=1616179779S8387afb8a361d55579b67c643f413f0fS822h861h922h48
+#EXTINF:-1,Дождь
 https://strm.yandex.ru/kal/tvrain/tvrain0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1,RTVi
 https://edge04.beetv.kz/btv/SWM/RTVi/RTVi.m3u8
@@ -60,7 +62,7 @@ http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ztdEvEl.jpg",СК1
 https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/chunks.m3u8
 #EXTINF:-1,1+1
-http://spacetv.in/stream/DIPK8H19CP8/172.m3u8
+http://163.172.71.147:8080/1plus1/mpegts
 #EXTINF:-1,Интер
 http://lb1.macc.com.ua/img/inter_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KNOuLKm.jpg",Каббала ТВ
