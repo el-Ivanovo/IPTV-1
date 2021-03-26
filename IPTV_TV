@@ -5,8 +5,8 @@ http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 http://178.163.62.70:81/udp/234.0.0.111:2000
 #EXTINF:-1,Наука
 http://178.163.38.14:4022/udp/234.0.0.226:2000
-#EXTINF:-1 ,Viasat History
-https://s1.idata.uz/stch_temp20/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Viasat History
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=viasat_history
 #EXTINF:-1 tvg-logo="https://imgur.com/FRJxM50.jpg",ID Fashion
 http://idfashion-hls3.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
@@ -34,7 +34,7 @@ http://37.192.145.48:81/udp/239.1.13.6:1234
 #EXTINF:-1,RTVi
 https://edge04.beetv.kz/btv/SWM/RTVi/RTVi.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-b.m3u8?sd=10&rebase=on
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LNUBAzq.jpg",CGTN-Русский
@@ -60,7 +60,7 @@ http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ztdEvEl.jpg",СК1
 https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/chunks.m3u8
 #EXTINF:-1,1+1
-http://163.172.71.147:8080/1plus1/mpegts
+http://51.68.140.190:8081/tv/1+1/playlist.m3u8
 #EXTINF:-1,Интер
 http://lb1.macc.com.ua/img/inter_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KNOuLKm.jpg",Каббала ТВ
@@ -68,7 +68,7 @@ http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1,Disney канал
 http://178.163.52.86:4022/udp/234.0.0.198:2000
 #EXTINF:-1,2x2
-http://178.163.47.208:4022/udp/234.0.0.244:2000
+http://178.163.22.207:4022/udp/234.0.0.244:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/p8DhHPx.jpg",Шансон-TB
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Телеканал Радио Страна ФМ" tvg-logo="https://imgur.com/5GSM497.jpg",Страна FM
