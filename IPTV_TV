@@ -6,7 +6,7 @@ http://178.163.62.70:81/udp/234.0.0.111:2000
 #EXTINF:-1,Наука
 http://178.163.38.14:4022/udp/234.0.0.226:2000
 #EXTINF:-1,Viasat History
-http://freeiptv.uk.to:8738/mfolive.m3u8?media=viasat_history
+http://37.194.126.52:81/udp/239.1.21.34:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/FRJxM50.jpg",ID Fashion
 http://idfashion-hls3.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
@@ -68,7 +68,7 @@ http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1,Disney канал
 http://178.163.52.86:4022/udp/234.0.0.198:2000
 #EXTINF:-1,2x2
-http://178.163.22.207:4022/udp/234.0.0.244:2000
+http://178.163.88.19:4022/udp/234.0.0.244:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/p8DhHPx.jpg",Шансон-TB
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Телеканал Радио Страна ФМ" tvg-logo="https://imgur.com/5GSM497.jpg",Страна FM
@@ -83,10 +83,12 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1327104.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ecjYXwS.jpg",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1,BBC World News
-http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Russia",Deutsche Welle Russia
+http://live-1.otcnet.ru/DW/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",Deutsche Welle English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1,BBC World News
+http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 #EXTINF:-1,France 24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
