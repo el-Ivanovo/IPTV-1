@@ -8,7 +8,7 @@ http://178.163.62.70:81/udp/234.0.0.111:2000
 #EXTINF:-1,Наука
 http://178.163.38.14:4022/udp/234.0.0.226:2000
 #EXTINF:-1,Viasat History
-http://37.194.126.52:81/udp/239.1.21.34:1234
+http://5.128.175.4:81/udp/239.1.21.34:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/FRJxM50.jpg",ID Fashion
 http://idfashion-hls3.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
