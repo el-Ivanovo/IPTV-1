@@ -85,8 +85,6 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunkl
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1,BBC World News
 http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Russia",Deutsche Welle Russia
-http://live-1.otcnet.ru/DW/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",Deutsche Welle English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1,France 24 English
