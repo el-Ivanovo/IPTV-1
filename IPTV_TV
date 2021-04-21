@@ -11,14 +11,14 @@ http://178.163.59.73:4022/udp/234.0.0.226:2000
 http://idfashion-hls3.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1,Первый канал
-http://188.243.243.181:4022/udp/239.239.1.64:5239
+#EXTINF:-1,Первый канал HD
+http://178.163.113.143:4022/udp/234.0.0.172:2000
 #EXTINF:-1,Россия 1 HD
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist.m3u8
 #EXTINF:-1,ТНТ4
-http://37.235.225.6:81/udp/225.50.66.7:1234
+http://37.235.221.181:81/udp/225.50.66.7:1234
 #EXTINF:-1,Ностальгия
 http://178.163.36.4:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
@@ -60,7 +60,7 @@ http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1,Disney канал
 http://178.163.52.86:4022/udp/234.0.0.198:2000
 #EXTINF:-1,2x2
-http://178.163.88.19:4022/udp/234.0.0.244:2000
+http://178.163.39.80:4022/udp/234.0.0.244:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/p8DhHPx.jpg",Шансон-TB
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Телеканал Радио Страна ФМ" tvg-logo="https://imgur.com/5GSM497.jpg",Страна FM
