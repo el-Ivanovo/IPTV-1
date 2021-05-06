@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://iptv-content.webhop.net/guide.xml,http://georgemikl.ucoz.ru/epg/xmltv.xml.gz"
 #EXTINF:-1,Discovery
-http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
+http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
 #EXTINF:-1,Discovery Science
-http://37.192.135.2:81/udp/239.1.5.9:1234
+http://37.193.74.102:81/udp/239.1.5.9:1234
 #EXTINF:-1,Galaxy
 http://178.163.62.70:81/udp/234.0.0.111:2000
 #EXTINF:-1,Наука 2.0
@@ -12,13 +12,13 @@ http://idfashion-hls3.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,Первый канал HD
-http://178.163.113.143:4022/udp/234.0.0.172:2000
+http://85.114.171.157:4022/udp/232.0.1.20:1234
 #EXTINF:-1,Россия 1 HD
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist.m3u8
 #EXTINF:-1,ТНТ4
-http://37.235.186.113:81/udp/225.50.66.7:1234
+http://37.235.207.215:81/udp/225.50.66.7:1234
 #EXTINF:-1,Ностальгия
 http://178.163.36.4:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
@@ -51,8 +51,6 @@ http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
 http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-#EXTINF:-1,1+1
-http://51.68.140.190:8081/tv/1+1/playlist.m3u8
 #EXTINF:-1,Интер
 http://lb1.macc.com.ua/img/inter_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KNOuLKm.jpg",Каббала ТВ
