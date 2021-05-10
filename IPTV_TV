@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://iptv-content.webhop.net/guide.xml,http://georgemikl.ucoz.ru/epg/xmltv.xml.gz"
-#EXTINF:-1,Discovery
+#EXTINF:-1,Discovery HD
 http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
 #EXTINF:-1,Discovery Science
-http://37.193.74.102:81/udp/239.1.5.9:1234
+http://37.194.44.223:81/udp/239.1.5.9:1234
 #EXTINF:-1,Galaxy
 http://178.163.62.70:81/udp/234.0.0.111:2000
 #EXTINF:-1,Наука 2.0
@@ -12,7 +12,7 @@ http://idfashion-hls3.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,Первый канал HD
-http://85.114.171.157:4022/udp/232.0.1.20:1234
+http://109.248.84.38:40222/udp/239.195.5.18:1234
 #EXTINF:-1,Россия 1 HD
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,Россия К
@@ -24,7 +24,7 @@ http://178.163.36.4:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Дождь
-http://95.163.187.47:5050/udp/224.0.42.112:5000
+http://178.248.83.237/239.211.211.70/stream.m3u8
 #EXTINF:-1,RTVi
 https://edge04.beetv.kz/btv/SWM/RTVi/RTVi.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
