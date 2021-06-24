@@ -2,11 +2,11 @@
 #EXTINF:-1,Discovery HD
 http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
 #EXTINF:-1,Discovery Science
-http://37.195.217.27:81/udp/239.1.5.9:1234
+http://37.192.119.31:81/udp/239.1.5.9:1234
 #EXTINF:-1,Galaxy
-http://178.163.102.11:4022/udp/234.0.0.111:2000
+http://178.163.42.129:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука 2.0
-http://178.163.59.73:4022/udp/234.0.0.226:2000
+http://178.163.12.181:4022/udp/234.0.0.226:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/FRJxM50.jpg",ID Fashion
 http://idfashion-hls3.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
@@ -24,7 +24,7 @@ http://178.163.22.173:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Дождь
-http://37.192.145.48:81/udp/239.1.13.6:1234
+http://37.192.119.31:81/udp/239.1.13.6:1234
 #EXTINF:-1,RTVi
 https://edge04.beetv.kz/btv/SWM/RTVi/RTVi.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
