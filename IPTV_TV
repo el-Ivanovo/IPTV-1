@@ -2,7 +2,7 @@
 #EXTINF:-1,Discovery HD
 http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
 #EXTINF:-1,Discovery Science
-http://37.192.119.31:81/udp/239.1.5.9:1234
+https://s1.idata.uz/stch_temp10/index.m3u8
 #EXTINF:-1,Galaxy
 http://178.163.42.129:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука 2.0
