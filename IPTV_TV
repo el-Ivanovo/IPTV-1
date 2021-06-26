@@ -37,11 +37,11 @@ https://liveru.cgtn.com/cctv-r.m3u8
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bC7Dtnf.jpg",Общественное Независимое Телевидение
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1,Перший незалежний
+#EXTINF:-1 tvg-logo="https://imgur.com/1ubBeLG.jpg",Перший незалежний
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GAvfrvf.jpg",UA: TV
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,UA: Культура
+#EXTINF:-1 tvg-logo="https://imgur.com/9eRfobf.jpg",UA: Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cfUIl4X.jpg",UKR LIVE
 http://95.67.12.149:9005
@@ -49,14 +49,12 @@ http://95.67.12.149:9005
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ro8pQ6P.jpg",Прямий
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/N0AE0Lm.jpg",Думская TV
-http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1,Интер
+http://lb1.macc.com.ua/img/inter_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ly3RVBz.jpg",Перший Західний
 http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-#EXTINF:-1,Интер
-http://lb1.macc.com.ua/img/inter_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KNOuLKm.jpg",Каббала ТВ
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1,Disney канал
