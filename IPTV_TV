@@ -24,7 +24,7 @@ http://178.163.22.173:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Дождь
-http://37.192.119.31:81/udp/239.1.13.6:1234
+http://5.130.113.107:81/udp/239.1.13.6:1234
 #EXTINF:-1,RTVi
 https://edge04.beetv.kz/btv/SWM/RTVi/RTVi.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
@@ -37,8 +37,12 @@ https://liveru.cgtn.com/cctv-r.m3u8
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bC7Dtnf.jpg",Общественное Независимое Телевидение
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1,Перший незалежний
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GAvfrvf.jpg",UA: TV
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,UA: Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cfUIl4X.jpg",UKR LIVE
 http://95.67.12.149:9005
 #EXTINF:-1 tvg-logo="https://imgur.com/M3Tr2Lb.jpg",24 Украина
