@@ -14,7 +14,7 @@ http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,Первый канал
 http://37.235.221.181:81/udp/225.50.66.201:1234
 #EXTINF:-1,Россия 1 HD
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist.m3u8
 #EXTINF:-1,ТНТ4
