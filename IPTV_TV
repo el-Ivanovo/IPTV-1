@@ -2,7 +2,7 @@
 #EXTINF:-1,Discovery HD
 http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
 #EXTINF:-1,Discovery Science
-https://s1.idata.uz/stch_temp10/tracks-v1a1/rewind-7200.m3u8
+http://185.74.4.46:8080/stch_temp10/mpegts
 #EXTINF:-1,Galaxy
 http://178.163.42.129:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука 2.0
@@ -24,7 +24,7 @@ http://178.163.22.173:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Дождь
-http://5.130.113.107:81/udp/239.1.13.6:1234
+http://178.49.77.20:81/udp/239.1.13.6:1234
 #EXTINF:-1,RTVi
 http://87.247.44.21:80/btv/SWM/RTVi/RTVi.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
