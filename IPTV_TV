@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://iptv-content.webhop.net/guide.xml,http://georgemikl.ucoz.ru/epg/xmltv.xml.gz"
-#EXTINF:-1,Discovery HD
-http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
-#EXTINF:-1,Discovery Science
-http://185.74.4.46:8080/stch_temp10/mpegts
+#EXTINF:-1,Da Vinci
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1,Galaxy
 http://178.163.42.129:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука 2.0
@@ -49,6 +47,8 @@ http://95.67.12.149:9005
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ro8pQ6P.jpg",Прямий
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1,Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
 #EXTINF:-1,Перший Діловий
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 #EXTINF:-1,Интер
