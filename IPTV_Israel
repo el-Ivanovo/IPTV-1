@@ -1,8 +1,12 @@
 #EXTM3U url-tvg="http://iptv-content.webhop.net/guide.xml"
+#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://www.9tv.co.il/images/logo_ch9.png", 9 Channel
+http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-name="KAN 11" tvg-logo="https://imgur.com/0rftidO.jpg", 11 Channel Kan
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NmnXn2z.jpg", N12
 https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://imgur.com/Gx1N1CQ.jpg", 12 Channel Keshet
+https://iptv--iptv.repl.co/Hebrew/keshet_12
 #EXTINF:-1 tvg-name="Reshet 13" tvg-logo="https://imgur.com/VdaTgbX.jpg", 13 Channel Reshet
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 #EXTINF:-1 tvg-name="Channel 20" tvg-logo="http://thumbs2.imagebam.com/aa/8b/9f/fe51a9784877423.jpg", 20 Channel Moreshet
@@ -20,7 +24,7 @@ https://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ep7EhkD.jpg", Pervoe radio
 http://891fm.streamgates.net/891Fm
 #EXTINF:-1 tvg-logo="https://imgur.com/VgLpzF1.jpg", Reka
-https://stream-12.dc3.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUIbKwiah51jirc2Tk2ydlzk)/dm/3/x7yx60p/s/live-2.m3u8
+https://kanlivep2event-i.akamaihd.net/hls/live/749633/749633/kanreka_mp3/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7Qi4lEY.jpg" radio="true", Bet reshet
 https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/kanbet_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
 #EXTINF:-1 tvg-logo="https://imgur.com/hJFTNdk.jpg", 88 Kan
