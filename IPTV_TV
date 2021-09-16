@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://iptv-content.webhop.net/guide.xml"
 #EXTINF:-1,Da Vinci
-https://sc.id-tv.kz/DaVinci_34_35.m3u8
+http://46.50.228.117:81/udp/239.54.5.95:1234
 #EXTINF:-1,Galaxy
 http://178.163.47.164:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука 2.0
@@ -22,11 +22,11 @@ http://178.163.102.216:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Дождь
-https://strm.yandex.ru/kal/tvrain/tvrain0_169_480p.json/index-v1-a1.m3u8
+http://37.235.199.92:4022/udp/225.50.76.1:1234
 #EXTINF:-1,RTVi
 http://87.247.44.21:80/btv/SWM/RTVi/RTVi.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-b.m3u8
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8
 #EXTINF:-1,Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LNUBAzq.jpg",CGTN-Русский
@@ -88,4 +88,4 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv
 #EXTINF:-1,TVP Info
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 #EXTINF:-1 tvg-logo="https://imgur.com/fBRAxns.jpg",TV Republika
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
+https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
