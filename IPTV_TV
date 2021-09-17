@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://iptv-content.webhop.net/guide.xml"
+#EXTM3U url-tvg="https://iptvx.one/EPG,https://epg.ovh/pl.xml"
 #EXTINF:-1,Da Vinci
 http://46.50.228.117:81/udp/239.54.5.95:1234
 #EXTINF:-1,Galaxy
