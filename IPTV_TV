@@ -105,7 +105,7 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/170476
 #EXTINF:-1,TVP KULTURA
 http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/14957
-#EXTINF:-1,TVP rozrywka
+#EXTINF:-1 tvg-logo="https://epg.ovh/logo/TVP+Rozrywka.png",TVP rozrywka
 http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/170472
-#EXTINF:-1,polsat cafe
+#EXTINF:-1 tvg-logo="https://epg.ovh/logo/Polsat+Caf%c3%a9.png",polsat cafe
 http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/170473
