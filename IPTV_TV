@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,https://epg.ovh/pl.xml"
 #EXTINF:-1,Da Vinci
-http://46.50.228.117:81/udp/239.54.5.95:1234
+http://37.205.83.56:81/udp/239.54.5.95:1234
 #EXTINF:-1,Galaxy
 http://178.163.47.164:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука 2.0
@@ -57,7 +57,7 @@ http://lb1.macc.com.ua/img/inter_2/index.m3u8
 http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/qcW6yvO4iCK4.jpg",Телеканал Здоровье
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/NeSfKo.jpg",Телеканал Здоровье
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KNOuLKm.jpg",Каббала ТВ
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
