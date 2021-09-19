@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://iptv-content.webhop.net/guide.xml,https://epg.ovh/pl.xml"
+#EXTM3U url-tvg="https://iptvx.one/EPG,https://epg.ovh/pl.xml"
 #EXTINF:-1,Da Vinci
 http://46.50.228.117:81/udp/239.54.5.95:1234
 #EXTINF:-1,Galaxy
@@ -57,7 +57,7 @@ http://lb1.macc.com.ua/img/inter_2/index.m3u8
 http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-#EXTINF:-1,Телеканал Здоровье
+#EXTINF:-1 tvg-logo="https://pasteboard.co/qcW6yvO4iCK4.jpg",Телеканал Здоровье
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KNOuLKm.jpg",Каббала ТВ
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
@@ -101,7 +101,7 @@ http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/7360
 http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/7361
 #EXTINF:-1,TVP INFO
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
-#EXTINF:-1,TVP Polonia
+#EXTINF:-1,TVP POLONIA
 http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/170476
 #EXTINF:-1,TVP KULTURA
 http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/14957
