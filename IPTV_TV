@@ -1,12 +1,10 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,https://epg.ovh/pl.xml"
-#EXTINF:-1,Da Vinci
-http://37.205.83.56:81/udp/239.54.5.95:1234
 #EXTINF:-1,Galaxy
 http://178.163.47.164:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука 2.0
 http://178.163.12.181:4022/udp/234.0.0.226:2000
-#EXTINF:-1 tvg-logo="https://imgur.com/FRJxM50.jpg",ID Fashion
-http://idfashion-hls3.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1,Fashion TV
+https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,Первый канал
@@ -16,7 +14,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist.m3u8
 #EXTINF:-1,ТНТ4
-http://37.235.176.23:81/udp/225.50.66.7:1234
+http://37.235.180.99:81/udp/225.50.66.7:1234
 #EXTINF:-1,Ностальгия
 http://178.163.102.216:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
@@ -78,7 +76,7 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunkl
 #EXTINF:-1 tvg-logo="https://imgur.com/ecjYXwS.jpg",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1,BBC World News
-http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/177454
+http://37.193.47.182:81/udp/239.1.20.36:1234
 #EXTINF:-1,Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",Deutsche Welle English
@@ -86,26 +84,12 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 #EXTINF:-1,France 24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1,Fox News
-http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/177448
+http://starsat123.com:8080/obsexchange/telgrammm/15430
 #EXTINF:-1,Bloomberg
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fBRAxns.jpg",TV Republika
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
-#EXTINF:-1,TVP1 HD
-http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/170491
-#EXTINF:-1,TVP2 HD
-http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/7360
-#EXTINF:-1 tvg-logo="https://epg.ovh/logo/TVP+3.png",TVP3
-http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/7361
 #EXTINF:-1,TVP INFO
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
-#EXTINF:-1,TVP POLONIA
-http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/170476
-#EXTINF:-1,TVP KULTURA
-http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/14957
-#EXTINF:-1 tvg-logo="https://epg.ovh/logo/TVP+Rozrywka.png",TVP rozrywka
-http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/170472
-#EXTINF:-1 tvg-logo="https://epg.ovh/logo/Polsat+Caf%c3%a9.png",polsat cafe
-http://ysfiptv.club:8080/7YQVV9JnLY/EAhoSqJSyJ/170473
+#EXTINF:-1 tvg-logo="https://imgur.com/fBRAxns.jpg",TV Republika
+https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
