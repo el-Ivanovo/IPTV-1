@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,https://epg.ovh/pl.xml,http://epg.iptvx.tv/xmltv.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG,https://epg.ovh/pl.xml"
 #EXTINF:-1,Galaxy
 http://178.163.47.164:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука 2.0
