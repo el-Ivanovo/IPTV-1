@@ -18,7 +18,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist.m3u8
 #EXTINF:-1,ТНТ4
-http://37.235.180.99:81/udp/225.50.66.7:1234
+http://37.235.147.198:81/udp/225.50.66.7:1234
 #EXTINF:-1,Ностальгия
 http://178.163.102.216:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
