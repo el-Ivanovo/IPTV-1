@@ -7,6 +7,8 @@ http://178.163.12.181:4022/udp/234.0.0.226:2000
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bC7Dtnf.jpg",Общественное Независимое Телевидение
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/UdmEzG.jpg",RENOME
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8?q=
 #EXTINF:-1,Viasat History
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:-1,H2
@@ -57,8 +59,6 @@ http://lb1.macc.com.ua/img/inter_2/index.m3u8
 http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-#EXTINF:-1,RENOME
-http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8?q=
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/U4qqU8.jpg",KVARTAL TV
 http://87.247.44.24:80/btv/SWM/Kvartal_tv/Kvartal_tv_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KNOuLKm.jpg",Каббала ТВ
