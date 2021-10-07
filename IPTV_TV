@@ -3,6 +3,12 @@
 http://178.163.47.164:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука 2.0
 http://178.163.12.181:4022/udp/234.0.0.226:2000
+#EXTINF:-1,100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bC7Dtnf.jpg",Общественное Независимое Телевидение
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1,100% RENOME
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8?q=
 #EXTINF:-1,Viasat History
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:-1,H2
@@ -18,13 +24,13 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1,Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist.m3u8
 #EXTINF:-1,ТНТ4
-http://178.163.29.196:4022/udp/234.0.0.181:2000
+http://178.163.21.115:4022/udp/234.0.0.181:2000
 #EXTINF:-1,Ностальгия
-http://178.163.102.216:4022/udp/234.0.0.190:2000
+http://178.163.43.95:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-logo="https://imgur.com/dTufxla.jpg",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Дождь
-http://46.160.166.9:81/udp/239.254.2.176:1234
+http://37.194.196.108:81/udp/239.1.13.6:1234
 #EXTINF:-1,RTVi
 http://87.247.44.21:80/btv/SWM/RTVi/RTVi.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
@@ -33,10 +39,6 @@ http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-b.m3u8?sd=10&rebase=
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LNUBAzq.jpg",CGTN-Русский
 https://liveru.cgtn.com/cctv-r.m3u8
-#EXTINF:-1,100% News
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bC7Dtnf.jpg",Общественное Независимое Телевидение
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-id="1-nezalezhn" tvg-logo="https://imgpile.com/images/U42s3k.png",Перший незалежний
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GAvfrvf.jpg",UA: TV
