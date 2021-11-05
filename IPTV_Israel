@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://iptv-content.webhop.net/guide.xml"
+#EXTINF:-1, 5 SPORT 4K
+http://king-tv.online:80/wctinney/aRaD1Pq2Rg/196702.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://www.9tv.co.il/images/logo_ch9.png", 9 Channel
 http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
 #EXTINF:-1 tvg-name="KAN 11" tvg-logo="https://imgur.com/0rftidO.jpg", 11 Channel Kan
@@ -6,7 +8,7 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunkl
 #EXTINF:-1 tvg-logo="https://imgur.com/NmnXn2z.jpg", N12
 https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://imgur.com/Gx1N1CQ.jpg", 12 Channel Keshet
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/9907?checkedby:iptvcat.com
+http://king-tv.online:80/wctinney/aRaD1Pq2Rg/249229.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="Reshet 13" tvg-logo="https://imgur.com/VdaTgbX.jpg", 13 Channel Reshet
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 #EXTINF:-1 tvg-name="Channel 20" tvg-logo="http://thumbs2.imagebam.com/aa/8b/9f/fe51a9784877423.jpg", 20 Channel Moreshet
