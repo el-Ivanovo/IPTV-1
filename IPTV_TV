@@ -53,7 +53,7 @@ http://lb1.macc.com.ua/img/inter_2/index.m3u8
 http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-#EXTINF:-1 ,Правда ТУТ Львiв
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/UHbj1k.png",Правда ТУТ Львiв
 http://95.67.12.158:8034
 #EXTINF:-1 tvg-logo="https://imgur.com/KNOuLKm.jpg",Каббала ТВ
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
