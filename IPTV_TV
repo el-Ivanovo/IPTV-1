@@ -14,7 +14,7 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:-1,H2
 http://46.34.209.244:80/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
 #EXTINF:-1,Первый канал
-http://37.235.221.181:81/udp/225.50.66.201:1234
+http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:-1,Россия 1
 https://a3569455792-s26881.cdn.ngenix.net/hls/russia1_plus5/playlist_3.m3u8
 #EXTINF:-1,Россия К
@@ -24,7 +24,7 @@ http://178.163.21.115:4022/udp/234.0.0.181:2000
 #EXTINF:-1,Ностальгия
 http://178.163.43.95:4022/udp/234.0.0.190:2000
 #EXTINF:-1,Дождь
-http://50.7.120.165:8081/rain/index.m3u8?wmsAuthSign=fd85c4d61649522142a275924a80436c-1636205529-102i861i922i48
+http://37.194.189.54:81/udp/239.1.13.6:1234
 #EXTINF:-1,RTVi
 http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/42633
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
