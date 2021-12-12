@@ -11,8 +11,6 @@ http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8?q=
 #EXTINF:-1,Viasat History
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
-#EXTINF:-1,H2
-http://46.34.209.244:80/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
 #EXTINF:-1,Первый канал HD
 https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
 #EXTINF:-1,Россия 1
@@ -26,7 +24,7 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
 #EXTINF:-1,Ностальгия
 http://178.163.52.66:4022/udp/234.0.0.190:2000
 #EXTINF:-1,Дождь
-http://37.194.166.59:81/udp/239.1.13.6:1234
+http://37.193.90.36:81/udp/239.1.13.6:1234
 #EXTINF:-1,RTVi
 http://103.194.169.171:8282/RTVi_RU/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
