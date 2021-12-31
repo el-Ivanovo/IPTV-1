@@ -53,8 +53,6 @@ http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8?checkedby:
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/UHbj1k.png",Правда ТУТ Львiв
 http://95.67.12.158:8034
-#EXTINF:-1 tvg-logo="https://imgur.com/KNOuLKm.jpg",Каббала ТВ
-http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1,Fashion TV
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
@@ -91,6 +89,10 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ol5M9ot.png",JBS
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KNOuLKm.jpg",Каббала ТВ
+http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1,TVP INFO
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 #EXTINF:-1 tvg-logo="https://imgur.com/fBRAxns.jpg",TV Republika
