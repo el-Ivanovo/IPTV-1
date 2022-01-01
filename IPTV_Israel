@@ -6,7 +6,7 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunkl
 #EXTINF:-1 tvg-logo="https://imgur.com/NmnXn2z.jpg", N12
 https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://imgur.com/Gx1N1CQ.jpg", 12 Channel Keshet
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/38724?checkedby:iptvcat.com
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2329/index.m3u8
 #EXTINF:-1 tvg-name="Reshet 13" tvg-logo="https://imgur.com/VdaTgbX.jpg", 13 Channel Reshet
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 #EXTINF:-1 tvg-name="Channel 20" tvg-logo="https://imgpile.com/images/UpMCmE.png", 14 Channel Ahshav
@@ -23,6 +23,8 @@ https://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ep7EhkD.jpg", Pervoe radio
 http://891fm.streamgates.net/891Fm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NrQChVj/JRa.jpg", Jewish Radio
+http://ice.jewradio.net:8000/jewradio
 #EXTINF:-1 tvg-logo="https://imgur.com/VgLpzF1.jpg", Reka
 https://kanlivep2event-i.akamaihd.net/hls/live/749633/749633/kanreka_mp3/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/7Qi4lEY.jpg" radio="true", Bet reshet
