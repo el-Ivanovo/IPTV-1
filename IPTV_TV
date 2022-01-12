@@ -22,7 +22,7 @@ http://178.163.21.115:4022/udp/234.0.0.181:2000
 #EXTINF:-1,Ностальгия
 http://178.163.52.66:4022/udp/234.0.0.190:2000
 #EXTINF:-1,Дождь
-http://5.128.26.201:81/udp/239.1.13.6:1234
+http://50.7.120.165:8081/rain/index.m3u8?wmsAuthSign=8f1c973650e7d6630037beae87ba03af-1642031886-732i861i922i48
 #EXTINF:-1,RTVi
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21035?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
@@ -82,7 +82,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 #EXTINF:-1,France 24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1,Fox News
-http://tv.master22.xyz:25461/eliluna1/gqdZxaWzcn/53850?checkedby:iptvcat.com
+http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1818?checkedby:iptvcat.com
 #EXTINF:-1,Bloomberg
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
