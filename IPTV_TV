@@ -22,7 +22,7 @@ http://178.163.21.115:4022/udp/234.0.0.181:2000
 #EXTINF:-1,Ностальгия
 http://178.163.52.66:4022/udp/234.0.0.190:2000
 #EXTINF:-1,Дождь
-http://5.128.21.216:81/udp/239.1.13.6:1234
+http://37.193.90.36:81/udp/239.1.13.6:1234
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Евроновости
