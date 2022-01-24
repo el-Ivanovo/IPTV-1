@@ -7,9 +7,9 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunkl
 https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://imgur.com/Gx1N1CQ.jpg", 12 Channel Keshet
 http://mybox.plus:80/zaki/1234567890/43910
-#EXTINF:-1 tvg-name="Reshet 13" tvg-logo="https://en.wikipedia.org/wiki/Channel_13_(Israel)#/media/File:New_Logo_13_2022.jpg", 13 Channel Reshet
+#EXTINF:-1 tvg-name="Reshet 13" tvg-logo="https://i.ibb.co/w4qswFM/13.jpg", 13 Channel Reshet
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
-#EXTINF:-1 tvg-name="Channel 20" tvg-logo="https://he.wikipedia.org/wiki/%D7%A2%D7%9B%D7%A9%D7%99%D7%95_14#/media/%D7%A7%D7%95%D7%91%D7%A5:Ch14IL.svg", 14 Channel Ahshav
+#EXTINF:-1 tvg-name="Channel 20" tvg-logo="https://imgpile.com/images/UpMCmE.png", 14 Channel Ahshav
 https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png", 23 Channel Hinuchit
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
