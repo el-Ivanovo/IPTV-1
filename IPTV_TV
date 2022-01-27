@@ -22,7 +22,9 @@ http://178.163.21.115:4022/udp/234.0.0.181:2000
 #EXTINF:-1,Ностальгия
 http://178.163.52.66:4022/udp/234.0.0.190:2000
 #EXTINF:-1,Дождь
-http://5.128.175.4:81/udp/239.1.13.6:1234
+http://37.192.119.31:81/udp/239.1.13.6:1234
+#EXTINF:-1,RTVi
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/20276?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Евроновости
@@ -41,8 +43,6 @@ http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1,Перший Діловий
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
-#EXTINF:-1,Интер
-http://lb1.macc.com.ua/img/inter_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ly3RVBz.jpg",Перший Західний
 http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,НТА
@@ -80,7 +80,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 #EXTINF:-1,France 24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1,Fox News
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/71657?checkedby:iptvcat.com
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/678142?checkedby:iptvcat.com
 #EXTINF:-1,Bloomberg
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
