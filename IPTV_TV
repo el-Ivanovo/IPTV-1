@@ -7,7 +7,7 @@ http://178.163.81.177:4022/udp/234.0.0.226:2000
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bC7Dtnf.jpg",Общественное Независимое Телевидение
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/UdmEzG.jpg",RENOME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mBhKZqq/R.jpg",RENOME
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8?q=
 #EXTINF:-1,Viasat History
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
@@ -20,9 +20,9 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist.m3u8
 #EXTINF:-1,ТНТ4
 http://178.163.21.115:4022/udp/234.0.0.181:2000
 #EXTINF:-1,Ностальгия
-http://178.163.52.66:4022/udp/234.0.0.190:2000
+http://178.163.15.47:4022/udp/234.0.0.190:2000
 #EXTINF:-1,Дождь
-http://37.192.119.31:81/udp/239.1.13.6:1234
+http://5.128.21.216:81/udp/239.1.13.6:1234
 #EXTINF:-1,RTVi
 http://new-pro.tv:8080/khaled398/K8GZlvu5gB/20276?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
@@ -75,8 +75,10 @@ http://188.40.68.167/russia/disney/playlist.m3u8
 http://109.171.45.109:81/udp/239.54.5.180:1234
 #EXTINF:-1,Sky News
 http://51.154.28.81:2052/play/a08w
-#EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",Deutsche Welle English
+#EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg",DW Deutsch
+http://1hdru-hls-otcnet.cdnvideo.ru/DW/playlist.m3u8
 #EXTINF:-1,France 24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1,Fox News
