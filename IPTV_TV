@@ -10,19 +10,19 @@ http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mBhKZqq/R.jpg",RENOME
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8?q=
 #EXTINF:-1,Viasat History
-https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+http://91.185.3.218:4000/play/323
 #EXTINF:-1,Первый канал HD
-https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
+http://190.115.29.22:8080/carter/GUV1bMq2VK/75695
 #EXTINF:-1,Россия 1 HD
-https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/36869
 #EXTINF:-1,Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist.m3u8
 #EXTINF:-1,ТНТ4
-http://178.163.21.115:4022/udp/234.0.0.181:2000
+https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 #EXTINF:-1,Ностальгия
-http://178.163.15.47:4022/udp/234.0.0.190:2000
+http://178.163.100.160:4022/udp/234.0.0.190:2000
 #EXTINF:-1,Дождь
-http://37.194.189.54:81/udp/239.1.13.6:1234
+http://37.193.202.185:81/udp/239.1.13.6:1234
 #EXTINF:-1,RTVi
 http://new-pro.tv:8080/khaled398/K8GZlvu5gB/20276?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
@@ -74,7 +74,7 @@ http://188.40.68.167/russia/disney/playlist.m3u8
 #EXTINF:-1,BBC World News
 http://109.171.45.109:81/udp/239.54.5.180:1234
 #EXTINF:-1,Sky News
-http://51.154.28.81:2052/play/a08w
+http://vmp343.ddnsking.com:80/pari/pari/195619
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg",DW Deutsch
