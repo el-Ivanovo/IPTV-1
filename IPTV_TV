@@ -27,7 +27,7 @@ http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8?checkedby:iptvcat.com
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LNUBAzq.jpg",CGTN-Русский
 https://liveru.cgtn.com/cctv-r.m3u8
-#EXTINF:-1,Белсат
+#EXTINF:-1 tvg-logo="https://i.ibb.co/82VRVFw/BS.jpg",Белсат
 http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GAvfrvf.jpg",UA: TV
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat.com
