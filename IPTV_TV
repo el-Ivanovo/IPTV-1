@@ -16,9 +16,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist.m3u8
 #EXTINF:-1,ТНТ4
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 #EXTINF:-1,Ностальгия
-http://94.124.246.9:81/udp/239.195.5.5:1234
-#EXTINF:-1,Дождь
-http://5.2.58.218:81/udp/239.254.2.176:1234
+http://89.107.36.244:81/udp/239.195.5.5:1234
 #EXTINF:-1,RTVi
 http://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8?token=czOud9pzTftAiMTcJAAXlWSHhadV2UPmsVrBNGERny4bpNuls7IR9q9Buni95EMV6bC4L6GB8X6Ec-Z5-tRrXyhEyhnaN5PI8UHOIRRb2i_IajJW5VMnJrjGGerDozQVSIlg-uHpveKT1JNZuIrMM6wVlwgthW6cO1sOlV1V276oQva7N51_Vcoxjo-tGMyIifhNPP7GkL9dsmtv5bll69708X0COQOhjefTdMDWq74gmCsCp5omaGSkdvD3vgVJ35oXxmGfs2y-6pIb8Spern382djiBDFEtOFahhhiO91bxmJ412gmnMFqDvZQ_ZfU
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
