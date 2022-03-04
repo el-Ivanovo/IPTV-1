@@ -1,8 +1,12 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,https://epg.ovh/pl.xml"
+#EXTINF:-1,Discovery Science
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
 #EXTINF:-1,Galaxy
 http://178.163.19.137:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука 2.0
 http://89.107.36.244:81/udp/239.195.4.88:1234
+#EXTINF:-1,Viasat History
+https://sc.id-tv.kz:443/ViasatHistory_34_35.m3u8
 #EXTINF:-1,Первый канал HD
 http://81.177.214.50:4022/udp/232.0.1.20:1234
 #EXTINF:-1,Россия К
