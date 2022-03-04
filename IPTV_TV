@@ -12,7 +12,7 @@ https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d1
 #EXTINF:-1,Ностальгия
 http://89.107.36.244:81/udp/239.195.5.5:1234
 #EXTINF:-1,RTVi
-http://46.18.107.41:8081/play2022/rtvi-channel/chunks.m3u8?nimblesessionid=181352&wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjIgMTI6MTk6NTIgUE0maGFzaF92YWx1ZT1JYm5uQmtlN0xoZmprTk5ISXhsUFV3PT0mdmFsaWRtaW51dGVzPTI1
+http://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8?token=czOud9pzTftAiMTcJAAXlWSHhadV2UPmsVrBNGERny4bpNuls7IR9q9Buni95EMV6bC4L6GB8X6Ec-Z5-tRrXyhEyhnaN5PI8UHOIRRb2i_IajJW5VMnJrjGGerDozQVSIlg-uHpveKT1JNZuIrMM6wVlwgthW6cO1sOlV1V276oQva7N51_Vcoxjo-tGMyIifhNPP7GkL9dsmtv5bll69708X0COQOhjefTdMDWq74gmCsCp5omaGSkdvD3vgVJ35oXxmGfs2y-6pIb8Spern382djiBDFEtOFahhhiO91bxmJ412gmnMFqDvZQ_ZfU
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Евроновости
