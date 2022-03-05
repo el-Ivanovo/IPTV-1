@@ -2,13 +2,11 @@
 #EXTINF:-1,Discovery Science
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
 #EXTINF:-1,Galaxy
-http://178.163.19.137:4022/udp/234.0.0.111:2000
+http://178.163.103.10:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука 2.0
 http://89.107.36.244:81/udp/239.195.4.88:1234
 #EXTINF:-1,Viasat History
-https://sc.id-tv.kz:443/ViasatHistory_34_35.m3u8
-#EXTINF:-1,Первый канал HD
-http://81.177.214.50:4022/udp/232.0.1.20:1234
+http://109.171.45.109:81/udp/239.54.5.93:1234
 #EXTINF:-1,Россия К
 http://37.235.170.125:81/udp/225.50.66.87:1234
 #EXTINF:-1,ТНТ4
@@ -21,10 +19,10 @@ http://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8?token=czOud9pzTftAiMTcJAA
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/LNUBAzq.jpg",CGTN-Русский
-https://liveru.cgtn.com/cctv-r.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/82VRVFw/BS.jpg",Белсат
 http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LNUBAzq.jpg",CGTN-Русский
+https://liveru.cgtn.com/cctv-r.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GAvfrvf.jpg",UA: TV
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/9eRfobf.jpg",UA: Культура
