@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,https://epg.ovh/pl.xml"
 #EXTINF:-1,Discovery Science
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
+http://109.200.130.124:7007/play/a00b
 #EXTINF:-1,Galaxy
-http://178.163.103.10:4022/udp/234.0.0.111:2000
+http://178.163.116.100:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука 2.0
 http://89.107.36.244:81/udp/239.195.4.88:1234
 #EXTINF:-1,Viasat History
