@@ -39,14 +39,12 @@ http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8?checkedby:
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zhw8s2k/Pravda-tut.jpg",Правда ТУТ Львiв
 http://95.67.12.158:8034
-#EXTINF:-1 tvg-logo="https://imgur.com/Q67LsR7.jpg",HDFASHION & Lifestyle
-http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1,Fashion TV
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p8DhHPx.jpg",Шансон-TB
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+https://sc.id-tv.kz:443/Shanson_34_35.m3u8
 #EXTINF:-1 tvg-name="Телеканал Радио Страна ФМ" tvg-logo="https://imgur.com/5GSM497.jpg",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music Television
@@ -70,7 +68,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 #EXTINF:-1,France 24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1,Fox News
-http://1tv1.net:8080/omnia2021/123456/148455?checkedby:iptvcat.com
+http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1,Bloomberg
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
