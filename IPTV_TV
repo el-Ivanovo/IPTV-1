@@ -6,15 +6,13 @@ http://178.163.116.100:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука 2.0
 http://89.107.36.244:81/udp/239.195.4.88:1234
 #EXTINF:-1,H2
-http://50.7.231.220:8081/224/index.m3u8?wmsAuthSign=okad
+https://sc.id-tv.kz:443/H2HD_36_37.m3u8
 #EXTINF:-1,Viasat History
 http://109.171.45.109:81/udp/239.54.5.93:1234
 #EXTINF:-1,Россия К
-http://37.235.170.125:81/udp/225.50.66.87:1234
+https://sc.id-tv.kz:443/RossiyaK_34_35.m3u8
 #EXTINF:-1,ТНТ4
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
-#EXTINF:-1,Ностальгия
-http://89.107.36.244:81/udp/239.195.5.5:1234
 #EXTINF:-1,RTVi
 http://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8?token=czOud9pzTftAiMTcJAAXlWSHhadV2UPmsVrBNGERny4bpNuls7IR9q9Buni95EMV6bC4L6GB8X6Ec-Z5-tRrXyhEyhnaN5PI8UHOIRRb2i_IajJW5VMnJrjGGerDozQVSIlg-uHpveKT1JNZuIrMM6wVlwgthW6cO1sOlV1V276oQva7N51_Vcoxjo-tGMyIifhNPP7GkL9dsmtv5bll69708X0COQOhjefTdMDWq74gmCsCp5omaGSkdvD3vgVJ35oXxmGfs2y-6pIb8Spern382djiBDFEtOFahhhiO91bxmJ412gmnMFqDvZQ_ZfU
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
@@ -31,6 +29,8 @@ http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mBhKZqq/R.jpg",RENOME
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8?q=
+#EXTINF:-1, Глас Plus
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GAvfrvf.jpg",UA: TV
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/9eRfobf.jpg",UA: Культура
@@ -74,7 +74,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1,France 24 English
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1,Fox News
 http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1,Bloomberg
