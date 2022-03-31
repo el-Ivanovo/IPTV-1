@@ -1,10 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,https://epg.ovh/pl.xml"
 #EXTINF:-1,Discovery Science
 http://109.200.130.124:7007/play/a00b
-#EXTINF:-1,Galaxy
-http://178.163.116.100:4022/udp/234.0.0.111:2000
 #EXTINF:-1,Наука 2.0
-http://89.107.36.244:81/udp/239.195.4.88:1234
+http://37.17.12.119:8911/play/a00j
 #EXTINF:-1,H2
 https://sc.id-tv.kz:443/H2HD_36_37.m3u8
 #EXTINF:-1,Viasat History
