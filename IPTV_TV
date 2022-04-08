@@ -3,6 +3,8 @@
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
 #EXTINF:-1,Наука 2.0
 http://37.17.12.119:8911/play/a00j
+#EXTINF:-1 tvg-id="Первый Космический",KOSMO
+http://npl1ydps.ottclub.xyz/iptv/MYZD99EVAC9NF3/11065/index.m3u8
 #EXTINF:-1,H2
 https://sc.id-tv.kz:443/H2HD_36_37.m3u8
 #EXTINF:-1,Viasat History
@@ -72,7 +74,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 #EXTINF:-1,France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1,Fox News
-http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/53850?checkedby:iptvcat.com
 #EXTINF:-1,Bloomberg
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
