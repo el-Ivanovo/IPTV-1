@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://iptv-content.webhop.net/guide.xml"
 #EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://www.9tv.co.il/images/logo_ch9.png", 9 Channel
-http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=1649378593p081i861i922i48Sa0c8241802bbed9884fcc758826352cb
+http://npl1ydps.ottclub.xyz/iptv/MYZD99EVAC9NF3/2331/index.m3u8
 #EXTINF:-1 tvg-name="KAN 11" tvg-logo="https://imgur.com/0rftidO.jpg", 11 Channel Kan
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://imgur.com/Gx1N1CQ.jpg", 12 Channel Keshet
