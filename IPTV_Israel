@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
-#EXTINF:-1 tvg-name="Channel 9 IL" tvg-logo="https://www.9tv.co.il/images/logo_ch9.png", 9 Channel
+#EXTINF:-1 tvg-name="2672" tvg-logo="https://www.9tv.co.il/images/logo_ch9.png", 9 Channel
 http://npl1ydps.ottclub.xyz/iptv/MYZD99EVAC9NF3/2331/index.m3u8
 #EXTINF:-1 tvg-name="KAN 11" tvg-logo="https://imgur.com/0rftidO.jpg", 11 Channel Kan
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
