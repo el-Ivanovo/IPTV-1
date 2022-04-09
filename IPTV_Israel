@@ -1,11 +1,11 @@
-#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
-#EXTINF:-1 tvg-name="2672" tvg-logo="https://www.9tv.co.il/images/logo_ch9.png", 9 Channel
-http://npl1ydps.ottclub.xyz/iptv/MYZD99EVAC9NF3/2331/index.m3u8
-#EXTINF:-1 tvg-name="KAN 11" tvg-logo="https://imgur.com/0rftidO.jpg", 11 Channel Kan
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 tvg-name="9kanal-israel" tvg-logo="https://www.9tv.co.il/images/logo_ch9.png", 9 Channel Israel plus
+http://npl1ydps.ottclub.xyz/iptv/MYZD99EVAC9NF3/2330/index.m3u8
+#EXTINF:-1 tvg-name="channel-11-il" tvg-logo="https://imgur.com/0rftidO.jpg", 11 Channel Kan
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-name="Keshet 12" tvg-logo="https://imgur.com/Gx1N1CQ.jpg", 12 Channel Keshet
+#EXTINF:-1 tvg-name="channel-12-il" tvg-logo="https://imgur.com/Gx1N1CQ.jpg", 12 Channel Keshet
 https://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200_av.m3u8
-#EXTINF:-1 tvg-name="Reshet 13" tvg-logo="https://i.ibb.co/w4qswFM/13.jpg", 13 Channel Reshet
+#EXTINF:-1 tvg-name="channel-13-il" tvg-logo="https://i.ibb.co/w4qswFM/13.jpg", 13 Channel Reshet
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 #EXTINF:-1 tvg-name="Channel 20" tvg-logo="https://i.ibb.co/Tmn7x0m/14.png", 14 Channel Ahshav
 https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
