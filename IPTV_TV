@@ -3,8 +3,6 @@
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
 #EXTINF:-1,Наука 2.0
 http://37.17.12.119:8911/play/a00j
-#EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://i.ibb.co/x7Zs85G/KOSMO.jpg",KOSMO
-http://npl1ydps.ottclub.xyz/iptv/MYZD99EVAC9NF3/11065/index.m3u8
 #EXTINF:-1,H2
 https://sc.id-tv.kz:443/H2HD_36_37.m3u8
 #EXTINF:-1,Viasat History
