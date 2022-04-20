@@ -3,6 +3,8 @@
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
 #EXTINF:-1,Наука 2.0
 http://37.17.12.119:8911/play/a00j
+#EXTINF:-1,Galaxy
+http://178.163.65.254:4022/udp/234.0.0.111:2000
 #EXTINF:-1,H2
 https://sc.id-tv.kz:443/H2HD_36_37.m3u8
 #EXTINF:-1,Viasat History
@@ -14,7 +16,7 @@ http://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8?token=czOud9pzTftAiMTcJAA
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Евроновости
-https://sc.id-tv.kz:443/Euronews_34_35.m3u8
+http://zagbhcpi.rostelekom.xyz/iptv/NQB99AC9NUZML7/828/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/82VRVFw/BS.jpg",Белсат
 http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LNUBAzq.jpg",CGTN-Русский
@@ -72,7 +74,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 #EXTINF:-1,France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1,Fox News
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/53850?checkedby:iptvcat.com
+http://fortv.cc:8080/alphonso/alphonso/1818?checkedby:iptvcat.com
 #EXTINF:-1,Bloomberg
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
