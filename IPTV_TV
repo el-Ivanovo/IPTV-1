@@ -68,7 +68,7 @@ https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
 #EXTINF:-1,Disney канал
 http://s91412.cdn.ngenix.net/mdrm/CH_DISNEY/bw2000000/variant.m3u8
 #EXTINF:-1,BBC World News
-http://109.171.45.109:81/udp/239.54.5.180:1234
+http://217.71.224.86:8079
 #EXTINF:-1,CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",DW English
