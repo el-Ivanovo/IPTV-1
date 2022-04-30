@@ -8,7 +8,7 @@ http://37.17.12.119:8911/play/a00j
 #EXTINF:-1,H2
 http://st1.astra-uk.ru:81/40fe05c53b00cf6b8f2a412eb8a8876f/playlist.m3u8
 #EXTINF:-1,Viasat History
-https://sc.id-tv.kz:443/ViasatHistory_34_35.m3u8
+http://lb.wisp.cat/lb0/ViasatHistory/video.m3u8?token=FREETVUKRAINE
 #EXTINF:-1,ТНТ4
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 #EXTINF:-1,RTVi
@@ -83,9 +83,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv
 http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KNOuLKm.jpg",Каббала ТВ
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
+#EXTINF:-1,TVP POLONIA
+http://cdnua06.hls.tv/476/hls/5po0k1f3tgdez8xb2mn97y6iurclvaqw/3678/stream.m3u8
 #EXTINF:-1,TVP INFO
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 #EXTINF:-1 tvg-logo="https://imgur.com/fBRAxns.jpg",TV Republika
 https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
-#EXTINF:-1,TVP POLONIA
-http://cdnua06.hls.tv/476/hls/5po0k1f3tgdez8xb2mn97y6iurclvaqw/3678/stream.m3u8
