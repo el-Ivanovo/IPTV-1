@@ -16,7 +16,7 @@ http://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8?token=czOud9pzTftAiMTcJAA
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Евроновости
-http://xraq0gdj.russtv.net/iptv/M434GM2WQSBCKW/828/index.m3u8
+http://50.7.92.90/Euronews/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/82VRVFw/BS.jpg",Белсат
 http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TqWH1mG/OstWest.png",OstWest
