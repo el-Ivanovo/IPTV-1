@@ -5,6 +5,8 @@ http://178.163.65.254:4022/udp/234.0.0.111:2000
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
 #EXTINF:-1,Наука 2.0
 http://37.17.12.119:8911/play/a00j
+#EXTINF:-1,KOSMO
+http://edge-01-pub.persik.by:82/live/Ch070pub/index.m3u8
 #EXTINF:-1,H2
 http://st1.astra-uk.ru:81/40fe05c53b00cf6b8f2a412eb8a8876f/playlist.m3u8
 #EXTINF:-1,Viasat History
@@ -66,7 +68,7 @@ http://50.7.92.90/Mezzo_HD/mono.m3u8
 #EXTINF:-1,Disney канал
 http://s91412.cdn.ngenix.net/mdrm/CH_DISNEY/bw2000000/variant.m3u8
 #EXTINF:-1,BBC World News
-http://217.71.224.86:8079
+http://xraq0gdj.russtv.net/iptv/M434GM2WQSBCKW/545/index.m3u8
 #EXTINF:-1,CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",DW English
