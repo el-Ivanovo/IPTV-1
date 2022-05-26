@@ -6,7 +6,7 @@ http://178.163.65.254:4022/udp/234.0.0.111:2000
 #EXTINF:-1  tvg-name="eureka-hd" tvg-logo="https://i.ibb.co/9vQRh1D/KOSMO.jpg",KOSMO
 http://edge-01-pub.persik.by:82/live/Ch070pub/index.m3u8
 #EXTINF:-1,Наука 2.0
-http://37.17.12.119:8911/play/a00j
+http://178.163.94.26:4022/udp/234.0.0.226:2000
 #EXTINF:-1,H2
 http://lb.wisp.cat/lb0/H2HD/video.m3u8?token=FREETVUKRAINE
 #EXTINF:-1,Viasat History
