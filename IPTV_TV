@@ -10,7 +10,7 @@ http://178.163.94.26:4022/udp/234.0.0.226:2000
 #EXTINF:-1,H2
 http://lb.wisp.cat/lb0/H2HD/video.m3u8?token=FREETVUKRAINE
 #EXTINF:-1,Viasat History
-http://xraq0gdj.russtv.net/iptv/M434GM2WQSBCKW/9060/index.m3u8
+http://lb.wisp.cat/lb0/ViasatHistory/video.m3u8?token=FREETVUKRAINE
 #EXTINF:-1,ТНТ4
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 #EXTINF:-1,RTVi
@@ -64,11 +64,11 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ecjYXwS.jpg",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0SrLRp/Mezzo-Live-HD-Logo.png",Mezzo Live HD
-http://xraq0gdj.russtv.net/iptv/M434GM2WQSBCKW/208/index.m3u8
+https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
 #EXTINF:-1,Disney канал
 http://s91412.cdn.ngenix.net/mdrm/CH_DISNEY/bw2000000/variant.m3u8
 #EXTINF:-1,BBC World News
-http://xraq0gdj.russtv.net/iptv/M434GM2WQSBCKW/545/index.m3u8
+https://cdntv.online/high/ru3v5wlzjp/437.m3u8
 #EXTINF:-1,CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",DW English
