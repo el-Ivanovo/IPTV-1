@@ -1,91 +1,33 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,https://epg.ovh/pl.xml"
-#EXTINF:-1,Discovery Science
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
-#EXTINF:-1,Galaxy
-http://178.163.65.254:4022/udp/234.0.0.111:2000
-#EXTINF:-1  tvg-name="eureka-hd" tvg-logo="https://i.ibb.co/9vQRh1D/KOSMO.jpg",KOSMO
-http://edge-01-pub.persik.by:82/live/Ch070pub/index.m3u8
-#EXTINF:-1,Наука 2.0
-http://178.163.94.26:4022/udp/234.0.0.226:2000
-#EXTINF:-1,H2
-http://lb.wisp.cat/lb0/H2HD/video.m3u8?token=FREETVUKRAINE
-#EXTINF:-1,Viasat History
-http://lb.wisp.cat/lb0/ViasatHistory/video.m3u8?token=FREETVUKRAINE
-#EXTINF:-1,ТНТ4
-https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
-#EXTINF:-1,RTVi
-http://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8?token=czOud9pzTftAiMTcJAAXlWSHhadV2UPmsVrBNGERny4bpNuls7IR9q9Buni95EMV6bC4L6GB8X6Ec-Z5-tRrXyhEyhnaN5PI8UHOIRRb2i_IajJW5VMnJrjGGerDozQVSIlg-uHpveKT1JNZuIrMM6wVlwgthW6cO1sOlV1V276oQva7N51_Vcoxjo-tGMyIifhNPP7GkL9dsmtv5bll69708X0COQOhjefTdMDWq74gmCsCp5omaGSkdvD3vgVJ35oXxmGfs2y-6pIb8Spern382djiBDFEtOFahhhiO91bxmJ412gmnMFqDvZQ_ZfU
-#EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Евроновости
-http://84.17.61.200:8085/udp/238.2.0.17:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/82VRVFw/BS.jpg",Белсат
-http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TqWH1mG/OstWest.png",OstWest
-http://cdnua06.hls.tv/476/hls/xuti0l47bsgzvop5e91wcdyarm32fjhq/4254/stream.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/LNUBAzq.jpg",CGTN-Русский
-https://liveru.cgtn.com/cctv-r.m3u8
-#EXTINF:-1,100% News
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bC7Dtnf.jpg",Общественное Независимое Телевидение
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mBhKZqq/R.jpg",RENOME
-http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8?q=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gdppy5f/GP.jpg",Глас Plus
-http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GAvfrvf.jpg",UA: TV
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://imgur.com/9eRfobf.jpg",UA: Культура
-http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/M3Tr2Lb.jpg",24 Украина
-http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Ro8pQ6P.jpg",Прямий
-http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1,Еспресо
-http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
-#EXTINF:-1,Перший Діловий
-http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/StqSz0q/PZ.jpg",Перший Західний
-http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,НТА
-http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zhw8s2k/Pravda-tut.jpg",Правда ТУТ Львiв
-http://95.67.12.158:8034
-#EXTINF:-1,World Fashion Channel
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#EXTINF:-1,Fashion TV
-https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Телеканал Радио Страна ФМ" tvg-logo="https://imgur.com/5GSM497.jpg",Страна FM
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music Television
-https://livetv.mylifeisgood.ml/channels/1hdmusic
-#EXTINF:-1 tvg-logo="https://imgur.com/bZYoAh0.jpg",Kronehit
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ecjYXwS.jpg",Retro Plus TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L0SrLRp/Mezzo-Live-HD-Logo.png",Mezzo Live HD
-https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
-#EXTINF:-1,Disney канал
-http://s91412.cdn.ngenix.net/mdrm/CH_DISNEY/bw2000000/variant.m3u8
-#EXTINF:-1,BBC World News
-https://cdntv.online/high/ru3v5wlzjp/437.m3u8
-#EXTINF:-1,CNN
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
-#EXTINF:-1,France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1,Bloomberg
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ol5M9ot.png",JBS
-http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KNOuLKm.jpg",Каббала ТВ
-http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
-#EXTINF:-1,TVP POLONIA
-http://cdnua06.hls.tv/476/hls/5po0k1f3tgdez8xb2mn97y6iurclvaqw/3678/stream.m3u8
-#EXTINF:-1,TVP INFO
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
-#EXTINF:-1 tvg-logo="https://imgur.com/fBRAxns.jpg",TV Republika
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="https://www.9tv.co.il/images/logo_ch9.png", 9 Channel Israel plus
+http://xraq0gdj.russtv.net/iptv/M434GM2WQSBCKW/2374/index.m3u8
+#EXTINF:-1 tvg-id="channel-11-il" tvg-logo="https://imgur.com/0rftidO.jpg", 11 Channel Kan
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-id="channel-12-il" tvg-logo="https://imgur.com/Gx1N1CQ.jpg", 12 Channel Keshet
+https://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200_av.m3u8
+#EXTINF:-1 tvg-id="channel-13-il" tvg-logo="https://i.ibb.co/w4qswFM/13.jpg", 13 Channel Reshet
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tmn7x0m/14.png", 14 Channel Ahshav
+https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png", 23 Channel Hinuchit
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZPjId5x.jpg", 24 Channel Music
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/2560px-Knessetch10.svg.png", 99 Channel Knesset
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wKi97Pg.png", Hidabroot
+https://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8R1UWRw.jpg", Kabbalah
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NrQChVj/JRa.jpg", Jewish Radio
+http://ice.jewradio.net:8000/jewradio
+#EXTINF:-1 tvg-logo="https://imgur.com/VgLpzF1.jpg", Reka
+https://kanlivep2event-i.akamaihd.net/hls/live/749633/749633/kanreka_mp3/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7Qi4lEY.jpg" radio="true", Bet reshet
+https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/kanbet_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
+#EXTINF:-1 tvg-logo="https://imgur.com/hJFTNdk.jpg", 88 Kan
+https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/kan88_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36&referer=https://www.kan.org.il/live/
+#EXTINF:-1 tvg-logo="https://imgur.com/J8jSn3P.jpg", Galgalatz
+http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
+#EXTINF:-1 tvg-logo="https://imgur.com/dfVlN8h.jpg", Kol HaMusika
+https://kanlivep2event-i.akamaihd.net/hls/live/749627/749627/kanclassical_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36&referer=https://www.kan.org.il/live/
