@@ -6,9 +6,9 @@ http://178.163.65.254:4022/udp/234.0.0.111:2000
 #EXTINF:-1  tvg-name="eureka-hd" tvg-logo="https://i.ibb.co/9vQRh1D/KOSMO.jpg",KOSMO
 http://edge-01-pub.persik.by:82/live/Ch070pub/index.m3u8
 #EXTINF:-1,Наука 2.0
-http://178.163.94.26:4022/udp/234.0.0.226:2000
+http://myott.top/stream/U5MGGA4MPG/125.m3u8
 #EXTINF:-1,H2
-http://195.2.74.99/channel/79aa274a/index.m3u8?q=54cf135238a2c9cb122f4ce6651e94bd
+http://myott.top/stream/U5MGGA4MPG/65.m3u8
 #EXTINF:-1,Viasat History
 http://cdnua06.hls.tv/476/hls/p85r20j1xoais4bcf3mgyzdnhv9l6qwu/327/stream.m3u8
 #EXTINF:-1,ТНТ4
@@ -68,13 +68,13 @@ https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
 #EXTINF:-1,Disney канал
 http://s91412.cdn.ngenix.net/mdrm/CH_DISNEY/bw2000000/variant.m3u8
 #EXTINF:-1,BBC World News
-https://cdntv.online/high/ru3v5wlzjp/437.m3u8
+http://streamer.enchart.one/42/59d39f2c50144fc5d321c1e8c16f51099e1bf4e6/224/stream.m3u8
 #EXTINF:-1,CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1,France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+http://streamer.enchart.one/42/59d39f2c50144fc5d321c1e8c16f51099e1bf4e6/275/stream.m3u8
 #EXTINF:-1,Bloomberg
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
