@@ -11,8 +11,8 @@ https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/in
 https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png", 23 Channel Hinuchit
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ZPjId5x.jpg", 24 Channel Music
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://he.wikipedia.org/wiki/%D7%A2%D7%A8%D7%95%D7%A5_24#/media/%D7%A7%D7%95%D7%91%D7%A5:Ch24telad.svg", 24 Channel
+http://2793ab0b.rossteleccom.net/iptv/ZM82R8Q56CA5D9/2380/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/2560px-Knessetch10.svg.png", 99 Channel Knesset
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wKi97Pg.png", Hidabroot
