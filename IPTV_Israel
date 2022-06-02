@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/edem.xml.gz"
 #EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="https://www.9tv.co.il/images/logo_ch9.png", 9 Channel Israel plus
 http://myott.top/stream/U5MGGA4MPG/20.m3u8
 #EXTINF:-1 tvg-id="channel-11-il" tvg-logo="https://imgur.com/0rftidO.jpg", 11 Channel Kan
@@ -11,13 +11,13 @@ https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/in
 https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png", 23 Channel Hinuchit
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://he.wikipedia.org/wiki/%D7%A2%D7%A8%D7%95%D7%A5_24#/media/%D7%A7%D7%95%D7%91%D7%A5:Ch24telad.svg", 24 Channel
+#EXTINF:-1  tvg-id="4028" tvg-logo="https://he.wikipedia.org/wiki/%D7%A2%D7%A8%D7%95%D7%A5_24#/media/%D7%A7%D7%95%D7%91%D7%A5:Ch24telad.svg", 24 Channel
 http://2793ab0b.rossteleccom.net/iptv/ZM82R8Q56CA5D9/2380/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/2560px-Knessetch10.svg.png", 99 Channel Knesset
+#EXTINF:-1  tvg-id="4305" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/2560px-Knessetch10.svg.png", 99 Channel Knesset
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wKi97Pg.png", Hidabroot
+#EXTINF:-1 tvg-id="2716" tvg-logo="https://imgur.com/wKi97Pg.png", Hidabroot
 https://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/8R1UWRw.jpg", Kabbalah
+#EXTINF:-1 tvg-id="2135" tvg-logo="https://imgur.com/8R1UWRw.jpg", Kabbalah
 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NrQChVj/JRa.jpg", Jewish Radio
 http://ice.jewradio.net:8000/jewradio
