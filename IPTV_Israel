@@ -19,15 +19,7 @@ https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 https://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="2135" tvg-logo="https://imgur.com/8R1UWRw.jpg", Kabbalah
 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NrQChVj/JRa.jpg", Jewish Radio
-http://ice.jewradio.net:8000/jewradio
-#EXTINF:-1 tvg-logo="https://imgur.com/VgLpzF1.jpg", Reka
-https://kanlivep2event-i.akamaihd.net/hls/live/749633/749633/kanreka_mp3/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/7Qi4lEY.jpg" radio="true", Bet reshet
-https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/kanbet_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
-#EXTINF:-1 tvg-logo="https://imgur.com/hJFTNdk.jpg", 88 Kan
-https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/kan88_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36&referer=https://www.kan.org.il/live/
 #EXTINF:-1 tvg-logo="https://imgur.com/J8jSn3P.jpg", Galgalatz
 http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
-#EXTINF:-1 tvg-logo="https://imgur.com/dfVlN8h.jpg", Kol HaMusika
-https://kanlivep2event-i.akamaihd.net/hls/live/749627/749627/kanclassical_mp3/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36&referer=https://www.kan.org.il/live/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NrQChVj/JRa.jpg", Jewish Radio
+http://ice.jewradio.net:8000/jewradio
