@@ -6,11 +6,11 @@ http://178.163.65.254:4022/udp/234.0.0.111:2000
 #EXTINF:-1  tvg-name="eureka-hd" tvg-logo="https://i.ibb.co/9vQRh1D/KOSMO.jpg",KOSMO
 http://edge-01-pub.persik.by:82/live/Ch070pub/index.m3u8
 #EXTINF:-1,Наука 2.0
-http://myott.top/stream/U5MGGA4MPG/125.m3u8
+http://streamer.enchart.one/42/59d39f2c50144fc5d321c1e8c16f51099e1bf4e6/92/stream.m3u8
 #EXTINF:-1,H2
-http://myott.top/stream/U5MGGA4MPG/65.m3u8
+http://188cb73b.ottrast.com/iptv/C967RBE65QQ8G6/2033/index.m3u8
 #EXTINF:-1,Viasat History
-http://cdnua06.hls.tv/476/hls/p85r20j1xoais4bcf3mgyzdnhv9l6qwu/327/stream.m3u8
+http://myott.top/stream/EHTC5R2IVC/101.m3u8
 #EXTINF:-1,ТНТ4
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 #EXTINF:-1,RTVi
