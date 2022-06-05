@@ -9,10 +9,6 @@ http://myott.top/stream/EHTC5R2IVC/294.m3u8
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 #EXTINF:-1  tvg-id="4296" tvg-logo="https://i.ibb.co/Tmn7x0m/14.png", 14 Channel Ahshav
 https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png", 23 Channel Hinuchit
-http://2793ab0b.rossteleccom.net/iptv/ZM82R8Q56CA5D9/2380/index.m3u8
-#EXTINF:-1  tvg-id="4028" tvg-logo="https://i.ibb.co/7Js6yZY/24.jpg", 24 Channel
-http://2793ab0b.rossteleccom.net/iptv/ZM82R8Q56CA5D9/12262/index.m3u8
 #EXTINF:-1  tvg-id="4306" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/2560px-Knessetch10.svg.png", 99 Channel Knesset
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="2716" tvg-logo="https://imgur.com/wKi97Pg.png", Hidabroot
