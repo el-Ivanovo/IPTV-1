@@ -2,7 +2,7 @@
 #EXTINF:-1,Discovery Science
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
 #EXTINF:-1,Galaxy
-http://178.163.65.254:4022/udp/234.0.0.111:2000
+http://195.161.68.177:8000/play/a00b/index.m3u8
 #EXTINF:-1  tvg-name="eureka-hd" tvg-logo="https://i.ibb.co/9vQRh1D/KOSMO.jpg",KOSMO
 http://edge-01-pub.persik.by:82/live/Ch070pub/index.m3u8
 #EXTINF:-1,Наука 2.0
@@ -21,8 +21,6 @@ http://streamer.enchart.one/42/857710aeeb5231d0aab50a325105c63c095a1d3b/437/stre
 http://84.17.61.200:8085/udp/238.2.0.17:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/82VRVFw/BS.jpg",Белсат
 http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TqWH1mG/OstWest.png",OstWest
-http://cdnua06.hls.tv/476/hls/xuti0l47bsgzvop5e91wcdyarm32fjhq/4254/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LNUBAzq.jpg",CGTN-Русский
 https://liveru.cgtn.com/cctv-r.m3u8
 #EXTINF:-1,100% News
