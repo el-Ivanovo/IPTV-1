@@ -11,8 +11,6 @@ http://streamer.enchart.one/42/59d39f2c50144fc5d321c1e8c16f51099e1bf4e6/92/strea
 http://myott.top/stream/EHTC5R2IVC/65.m3u8
 #EXTINF:-1,Viasat History
 http://myott.top/stream/EHTC5R2IVC/101.m3u8
-#EXTINF:-1,ТНТ4
-https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 #EXTINF:-1,RTVi
 http://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8?token=czOud9pzTftAiMTcJAAXlWSHhadV2UPmsVrBNGERny4bpNuls7IR9q9Buni95EMV6bC4L6GB8X6Ec-Z5-tRrXyhEyhnaN5PI8UHOIRRb2i_IajJW5VMnJrjGGerDozQVSIlg-uHpveKT1JNZuIrMM6wVlwgthW6cO1sOlV1V276oQva7N51_Vcoxjo-tGMyIifhNPP7GkL9dsmtv5bll69708X0COQOhjefTdMDWq74gmCsCp5omaGSkdvD3vgVJ35oXxmGfs2y-6pIb8Spern382djiBDFEtOFahhhiO91bxmJ412gmnMFqDvZQ_ZfU
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
@@ -44,7 +42,7 @@ http://saveukraine.only4.tv/0154/video.m3u8?token=saveUkrain
 #EXTINF:-1,Перший Діловий
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StqSz0q/PZ.jpg",Перший Західний
-http://lb.wisp.cat/lb0/1zahid_HD/video.m3u8?token=FREETVUKRAINE
+http://saveukraine.only4.tv/6751/video.m3u8?token=saveUkrain
 #EXTINF:-1,НТА
 http://69adcbe4.edmonst.net/iptv/S3CDAY4TXVMWXV/990/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zhw8s2k/Pravda-tut.jpg",Правда ТУТ Львiв
