@@ -44,7 +44,7 @@ http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StqSz0q/PZ.jpg",Перший Західний
 http://saveukraine.only4.tv/6751/video.m3u8?token=saveUkrain
 #EXTINF:-1,НТА
-http://69adcbe4.edmonst.net/iptv/S3CDAY4TXVMWXV/990/index.m3u8
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zhw8s2k/Pravda-tut.jpg",Правда ТУТ Львiв
 http://95.67.12.158:8034
 #EXTINF:-1,World Fashion Channel
@@ -61,8 +61,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0SrLRp/Mezzo-Live-HD-Logo.png",Mezzo Live HD
 https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
-#EXTINF:-1,Disney канал
-http://s91412.cdn.ngenix.net/mdrm/CH_DISNEY/bw2000000/variant.m3u8
 #EXTINF:-1,BBC World News
 http://streamer.enchart.one/42/59d39f2c50144fc5d321c1e8c16f51099e1bf4e6/224/stream.m3u8
 #EXTINF:-1,CNN
