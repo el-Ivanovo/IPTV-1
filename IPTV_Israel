@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="https://www.9tv.co.il/images/logo_ch9.png", 9 Channel Israel plus
 http://myott.top/stream/EHTC5R2IVC/20.m3u8
 #EXTINF:-1 tvg-id="channel-11-il" tvg-logo="https://imgur.com/0rftidO.jpg", 11 Channel Kan
-http://myott.top/stream/EHTC5R2IVC/293.m3u8
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXTINF:-1 tvg-id="channel-12-il" tvg-logo="https://imgur.com/Gx1N1CQ.jpg", 12 Channel Keshet
-http://myott.top/stream/EHTC5R2IVC/294.m3u8
+https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/hdntl=exp=1654964657~acl=%2f*~data=hdntl~hmac=29d4a13d106181c41627a5cf69a45f358c7dc7505b36174b05ce36d792efda6e/index_3300.m3u8
 #EXTINF:-1 tvg-id="channel-13-il" tvg-logo="https://i.ibb.co/w4qswFM/13.jpg", 13 Channel Reshet
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 #EXTINF:-1  tvg-id="4296" tvg-logo="https://i.ibb.co/Tmn7x0m/14.png", 14 Channel Ahshav
