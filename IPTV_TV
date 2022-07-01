@@ -1,12 +1,14 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,https://epg.ovh/pl.xml"
 #EXTINF:-1,Discovery Science
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
+http://myott.top/stream/EHTC5R2IVC/146.m3u8
 #EXTINF:-1,Galaxy
 http://195.161.68.177:8000/play/a00b/index.m3u8
 #EXTINF:-1  tvg-name="eureka-hd" tvg-logo="https://i.ibb.co/9vQRh1D/KOSMO.jpg",KOSMO
 http://edge-01-pub.persik.by:82/live/Ch070pub/index.m3u8
 #EXTINF:-1,Наука 2.0
 http://streamer.enchart.one/42/59d39f2c50144fc5d321c1e8c16f51099e1bf4e6/92/stream.m3u8
+#EXTINF:-1,Тера
+http://iptv.prosto.tv:7000/ch101/video.m3u8
 #EXTINF:-1,H2
 http://myott.top/stream/EHTC5R2IVC/65.m3u8
 #EXTINF:-1,Viasat History
