@@ -23,12 +23,6 @@ http://84.17.61.200:8085/udp/238.2.0.17:1234
 http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LNUBAzq.jpg",CGTN-Русский
 https://liveru.cgtn.com/cctv-r.m3u8
-#EXTINF:-1,100% News
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bC7Dtnf.jpg",Общественное Независимое Телевидение
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mBhKZqq/R.jpg",RENOME
-http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8?q=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gdppy5f/GP.jpg",Глас Plus
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GAvfrvf.jpg",UA: TV
@@ -57,6 +51,8 @@ https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_d
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music Television
 https://livetv.mylifeisgood.ml/channels/1hdmusic
+#EXTINF:-1,BOX Music 4K
+http://400f8bb1.ottrast.com/iptv/KEF3UYA3U8NWFH/19282/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bZYoAh0.jpg",Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ecjYXwS.jpg",Retro Plus TV
