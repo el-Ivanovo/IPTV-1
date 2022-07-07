@@ -51,7 +51,7 @@ https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_d
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music Television
 https://livetv.mylifeisgood.ml/channels/1hdmusic
-#EXTINF:-1,BOX Music 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z6P5kWw/BM4K.jpg" ,BOX Music 4K
 http://400f8bb1.ottrast.com/iptv/KEF3UYA3U8NWFH/19282/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bZYoAh0.jpg",Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
