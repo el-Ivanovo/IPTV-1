@@ -32,7 +32,7 @@ http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M3Tr2Lb.jpg",24 Украина
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ro8pQ6P.jpg",Прямий
-http://73633021.akadatel.com/iptv/Y29MK765NFM3LC/1015/index.m3u8
+http://ukr1873.only4.tv/0199/index.m3u8?token=yb0r35DQI4
 #EXTINF:-1,Еспресо
 http://saveukraine.only4.tv/0154/video.m3u8?token=saveUkrain
 #EXTINF:-1,Перший Діловий
