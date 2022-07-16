@@ -7,7 +7,7 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/hdntl=exp=1654964657~acl=%2f*~data=hdntl~hmac=29d4a13d106181c41627a5cf69a45f358c7dc7505b36174b05ce36d792efda6e/index_3300.m3u8
 #EXTINF:-1 tvg-id="channel-13-il" tvg-logo="https://i.ibb.co/w4qswFM/13.jpg", 13 Channel Reshet
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
-#EXTINF:-1  tvg-id="4296" tvg-logo="https://i.ibb.co/Tmn7x0m/14.png", 14 Channel Ahshav
+#EXTINF:-1 tvg-id="4296" tvg-logo="https://i.ibb.co/Tmn7x0m/14.png", 14 Channel Ahshav
 https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
 #EXTINF:-1 tvg-id="2711" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png", 23 Channel Hinuchit
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/source1_2.5k/chunklist.m3u8
