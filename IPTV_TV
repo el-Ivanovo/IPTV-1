@@ -29,6 +29,8 @@ https://liveru.cgtn.com/cctv-r.m3u8
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/9eRfobf.jpg",UA: Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
+#EXTINF:-1,1+1
+https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/124/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M3Tr2Lb.jpg",24 Украина
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ro8pQ6P.jpg",Прямий
@@ -43,8 +45,6 @@ http://saveukraine.only4.tv/6751/video.m3u8?token=saveUkrain
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zhw8s2k/Pravda-tut.jpg",Правда ТУТ Львiв
 http://95.67.12.158:8034
-#EXTINF:-1,1+1
-https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/124/stream.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/x5c2HML/Kvartal.jpg",Kvartal TV
 http://ukr1873.only4.tv/6180/index.m3u8?token=yb0r35DQI4
 #EXTINF:-1,World Fashion Channel
