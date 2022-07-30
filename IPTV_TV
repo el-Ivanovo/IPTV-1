@@ -25,10 +25,8 @@ http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
 http://cdnua06.hls.tv/476/hls/xuti0l47bsgzvop5e91wcdyarm32fjhq/4254/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LNUBAzq.jpg",CGTN-Русский
 https://liveru.cgtn.com/cctv-r.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GAvfrvf.jpg",UA: TV
+#EXTINF:-1,UA: TV
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://imgur.com/9eRfobf.jpg",UA: Культура
-http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1,1+1
 https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/124/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M3Tr2Lb.jpg",24 Украина
@@ -45,6 +43,8 @@ http://saveukraine.only4.tv/6751/video.m3u8?token=saveUkrain
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zhw8s2k/Pravda-tut.jpg",Правда ТУТ Львiв
 http://95.67.12.158:8034
+#EXTINF:-1,Суспільне Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/x5c2HML/Kvartal.jpg",Kvartal TV
 http://ukr1873.only4.tv/6180/index.m3u8?token=yb0r35DQI4
 #EXTINF:-1,World Fashion Channel
@@ -70,7 +70,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1,France 24 English
-http://red.ipfox.org:8080/live/Karam2022/Karam2023/48023.m3u8
+http://qqtv.nl:8080/67723535/15417766/338436
 #EXTINF:-1,Bloomberg
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
