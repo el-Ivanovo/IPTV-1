@@ -7,8 +7,6 @@ http://195.161.68.177:8000/play/a00b/index.m3u8
 http://edge-01-pub.persik.by:82/live/Ch070pub/index.m3u8
 #EXTINF:-1,Наука 2.0
 http://streamer.enchart.one/42/59d39f2c50144fc5d321c1e8c16f51099e1bf4e6/92/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/db7Z19C/Tera.jpg",Тера
-http://iptv.prosto.tv:7000/ch101/video.m3u8
 #EXTINF:-1,H2
 http://myott.top/stream/EHTC5R2IVC/65.m3u8
 #EXTINF:-1,Viasat History
@@ -27,14 +25,16 @@ http://cdnua06.hls.tv/476/hls/xuti0l47bsgzvop5e91wcdyarm32fjhq/4254/stream.m3u8
 https://liveru.cgtn.com/cctv-r.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GAvfrvf.jpg",UATV
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,1+1
-https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/124/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M3Tr2Lb.jpg",24 Украина
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ro8pQ6P.jpg",Прямий
 http://ukr1873.only4.tv/0199/index.m3u8?token=yb0r35DQI4
 #EXTINF:-1,Еспресо
 http://saveukraine.only4.tv/0154/video.m3u8?token=saveUkrain
+#EXTINF:-1,1+1
+https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/124/stream.m3u8
+#EXTINF:-1,2+2
+http://iptv.prosto.tv:7000/ch278/video.m3u8
 #EXTINF:-1,Перший Діловий
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StqSz0q/PZ.jpg",Перший Західний
