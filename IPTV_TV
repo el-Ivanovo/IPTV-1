@@ -33,8 +33,8 @@ http://ukr1873.only4.tv/0199/index.m3u8?token=yb0r35DQI4
 http://saveukraine.only4.tv/0154/video.m3u8?token=saveUkrain
 #EXTINF:-1,1+1
 https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/124/stream.m3u8
-#EXTINF:-1,2+2
-http://iptv.prosto.tv:7000/ch278/video.m3u8
+#EXTINF:-1,Iнтер HD
+http://saveukraine.only4.tv/1153/video.m3u8?token=saveUkrain
 #EXTINF:-1,Перший Діловий
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StqSz0q/PZ.jpg",Перший Західний
