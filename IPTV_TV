@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,https://epg.ovh/pl.xml"
 #EXTINF:-1,Discovery Science
-http://myott.top/stream/EHTC5R2IVC/146.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/9326/index.m3u8
 #EXTINF:-1,Galaxy
-http://195.161.68.177:8000/play/a00b/index.m3u8
+http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/9317/index.m3u8
 #EXTINF:-1  tvg-name="eureka-hd" tvg-logo="https://i.ibb.co/9vQRh1D/KOSMO.jpg",KOSMO
 http://edge-01-pub.persik.by:82/live/Ch070pub/index.m3u8
 #EXTINF:-1,Наука 2.0
-http://streamer.enchart.one/42/59d39f2c50144fc5d321c1e8c16f51099e1bf4e6/92/stream.m3u8
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5578
 #EXTINF:-1,H2
-http://myott.top/stream/EHTC5R2IVC/65.m3u8
+http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/2033/index.m3u8
 #EXTINF:-1,Viasat History
-http://myott.top/stream/EHTC5R2IVC/101.m3u8
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5541
 #EXTINF:-1,Дождь
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/2030/index.m3u8
 #EXTINF:-1,RTVi
@@ -66,13 +66,13 @@ http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/4865
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L0SrLRp/Mezzo-Live-HD-Logo.png",Mezzo Live HD
 https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
 #EXTINF:-1,BBC World News
-http://streamer.enchart.one/42/59d39f2c50144fc5d321c1e8c16f51099e1bf4e6/224/stream.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/545/index.m3u8
 #EXTINF:-1,CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1,France 24 English
-http://he11o.akadatel.com/iptv/5Y9BNYM9C5YWHQ/947/index.m3u8
+http://qqtv.nl:8080/67723535/15417766/330688
 #EXTINF:-1,Bloomberg
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
