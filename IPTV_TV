@@ -10,7 +10,7 @@ http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5578
 #EXTINF:-1,H2
 http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/2033/index.m3u8
 #EXTINF:-1,Viasat History
-http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5541
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/6002/index.m3u8
 #EXTINF:-1,Дождь
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/2030/index.m3u8
 #EXTINF:-1,RTVi
@@ -22,7 +22,7 @@ http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/828/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/82VRVFw/BS.jpg",Белсат
 http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TqWH1mG/OstWest.png",OstWest
-http://cdnua06.hls.tv/476/hls/xuti0l47bsgzvop5e91wcdyarm32fjhq/4254/stream.m3u8
+http://iptv.prosto.tv:7000/ch31/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LNUBAzq.jpg",CGTN-Русский
 https://liveru.cgtn.com/cctv-r.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GAvfrvf.jpg",UATV
@@ -43,8 +43,6 @@ http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 http://saveukraine.only4.tv/6751/video.m3u8?token=saveUkrain
 #EXTINF:-1,НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zhw8s2k/Pravda-tut.jpg",Правда ТУТ Львiв
-http://95.67.12.158:8034
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NRWLZp/SK.jpg",Суспільне Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/x5c2HML/Kvartal.jpg",Kvartal TV
@@ -82,7 +80,7 @@ http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KNOuLKm.jpg",Каббала ТВ
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1,TVP POLONIA
-http://cdnua06.hls.tv/476/hls/5po0k1f3tgdez8xb2mn97y6iurclvaqw/3678/stream.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/7282/index.m3u8
 #EXTINF:-1,TVP INFO
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 #EXTINF:-1 tvg-logo="https://imgur.com/fBRAxns.jpg",TV Republika
