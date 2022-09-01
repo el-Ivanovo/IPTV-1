@@ -14,7 +14,7 @@ http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/6002/index.m3u8
 #EXTINF:-1,Дождь
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/2030/index.m3u8
 #EXTINF:-1,RTVi
-http://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8?token=czOud9pzTftAiMTcJAAXlWSHhadV2UPmsVrBNGERny4bpNuls7IR9q9Buni95EMV6bC4L6GB8X6Ec-Z5-tRrXyhEyhnaN5PI8UHOIRRb2i_IajJW5VMnJrjGGerDozQVSIlg-uHpveKT1JNZuIrMM6wVlwgthW6cO1sOlV1V276oQva7N51_Vcoxjo-tGMyIifhNPP7GkL9dsmtv5bll69708X0COQOhjefTdMDWq74gmCsCp5omaGSkdvD3vgVJ35oXxmGfs2y-6pIb8Spern382djiBDFEtOFahhhiO91bxmJ412gmnMFqDvZQ_ZfU
+http://he11o.akadatel.com/iptv/HE8D3Q22CKXETZ/9102/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist.m3u8
 #EXTINF:0,Евроновости
@@ -32,15 +32,15 @@ http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ro8pQ6P.jpg",Прямий
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:-1,Еспресо
-http://saveukraine.only4.tv/0154/video.m3u8?token=saveUkrain
+http://he11o.akadatel.com/iptv/HE8D3Q22CKXETZ/927/index.m3u8
 #EXTINF:-1,1+1
 http://he11o.akadatel.com/iptv/5Y9BNYM9C5YWHQ/6317/index.m3u8
 #EXTINF:-1,Iнтер HD
-http://saveukraine.only4.tv/1153/video.m3u8?token=saveUkrain
+http://he11o.akadatel.com/iptv/HE8D3Q22CKXETZ/1047/index.m3u8
 #EXTINF:-1,Перший Діловий
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StqSz0q/PZ.jpg",Перший Західний
-http://saveukraine.only4.tv/6751/video.m3u8?token=saveUkrain
+http://he11o.akadatel.com/iptv/HE8D3Q22CKXETZ/15271/index.m3u8
 #EXTINF:-1,НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NRWLZp/SK.jpg",Суспільне Культура
