@@ -35,7 +35,7 @@ http://95.67.21.100/hls/prm_ua_hi/index.m3u8?cur=tva.org.ua&key=3i277
 http://he11o.akadatel.com/iptv/HE8D3Q22CKXETZ/927/index.m3u8
 #EXTINF:-1,1+1
 http://he11o.akadatel.com/iptv/5Y9BNYM9C5YWHQ/6317/index.m3u8
-#EXTINF:-1,Iнтер HD
+#EXTINF:-1,Iнтер
 http://he11o.akadatel.com/iptv/HE8D3Q22CKXETZ/1047/index.m3u8
 #EXTINF:-1,Перший Діловий
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
@@ -46,7 +46,7 @@ http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NRWLZp/SK.jpg",Суспільне Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/x5c2HML/Kvartal.jpg",Kvartal TV
-http://iptv.prosto.tv:7000/ch65/video.m3u8
+http://he11o.akadatel.com/iptv/HE8D3Q22CKXETZ/932/index.m3u8
 #EXTINF:-1,World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1,Fashion TV
@@ -59,10 +59,6 @@ https://livetv.mylifeisgood.ml/channels/1hdmusic
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ecjYXwS.jpg",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XDtMZ0h/mezzo.jpg",Mezzo
-http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/4865
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L0SrLRp/Mezzo-Live-HD-Logo.png",Mezzo Live HD
-https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
 #EXTINF:-1,BBC World News
 http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/545/index.m3u8
 #EXTINF:-1,CNN
