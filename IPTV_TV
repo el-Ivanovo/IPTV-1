@@ -75,8 +75,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv
 http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KNOuLKm.jpg",Каббала ТВ
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
-#EXTINF:-1,TVP POLONIA
-http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/7282/index.m3u8
+#EXTINF:-1,TVP 1 HD
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/7292/index.m3u8
 #EXTINF:-1,TVP INFO
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 #EXTINF:-1 tvg-logo="https://imgur.com/fBRAxns.jpg",TV Republika
