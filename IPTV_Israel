@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/edem.xml.gz"
 #EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="https://www.9tv.co.il/images/logo_ch9.png", 9 Channel Israel plus
-http://he11o.akadatel.com/iptv/KBDMQMYTHBMXED/12238/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/2329/index.m3u8
 #EXTINF:-1 tvg-id="channel-11-il" tvg-logo="https://imgur.com/0rftidO.jpg", 11 Channel Kan
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXTINF:-1 tvg-id="channel-12-il" tvg-logo="https://imgur.com/Gx1N1CQ.jpg", 12 Channel Keshet
-http://he11o.akadatel.com/iptv/KBDMQMYTHBMXED/2329/index.m3u8
+http://bigteisti3.cdn.lifeyosso.fun:8080/CHANNEL_12_IL/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
 #EXTINF:-1 tvg-id="channel-13-il" tvg-logo="https://i.ibb.co/w4qswFM/13.jpg", 13 Channel Reshet
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 #EXTINF:-1 tvg-id="4296" tvg-logo="https://i.ibb.co/Tmn7x0m/14.png", 14 Channel Ahshav
