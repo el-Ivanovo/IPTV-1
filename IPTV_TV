@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,https://epg.ovh/pl.xml"
 #EXTINF:-1,Discovery Science
-http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/9326/index.m3u8
+http://he11o.akadatel.com/iptv/QRPX46AQ72XSVA/9326/index.m3u8
 #EXTINF:-1,Galaxy
 http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/9317/index.m3u8
 #EXTINF:-1  tvg-name="eureka-hd" tvg-logo="https://i.ibb.co/9vQRh1D/KOSMO.jpg",KOSMO
@@ -32,7 +32,7 @@ http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ro8pQ6P.jpg",Прямий
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:-1,Еспресо
-http://he11o.akadatel.com/iptv/HE8D3Q22CKXETZ/927/index.m3u8
+http://he11o.akadatel.com/iptv/QRPX46AQ72XSVA/927/index.m3u8
 #EXTINF:-1,1+1
 http://he11o.akadatel.com/iptv/5Y9BNYM9C5YWHQ/6317/index.m3u8
 #EXTINF:-1,Iнтер HD
@@ -46,7 +46,7 @@ http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NRWLZp/SK.jpg",Суспільне Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/x5c2HML/Kvartal.jpg",Kvartal TV
-http://he11o.akadatel.com/iptv/HE8D3Q22CKXETZ/932/index.m3u8
+http://he11o.akadatel.com/iptv/QRPX46AQ72XSVA/932/index.m3u8
 #EXTINF:-1,World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1,Fashion TV
@@ -66,7 +66,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1,France 24 English
-http://he11o.akadatel.com/iptv/HE8D3Q22CKXETZ/947/index.m3u8
+http://he11o.akadatel.com/iptv/QRPX46AQ72XSVA/947/index.m3u8
 #EXTINF:-1,Bloomberg
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
@@ -76,7 +76,7 @@ http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KNOuLKm.jpg",Каббала ТВ
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4496.png",TVP 1 HD
-http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/7292/index.m3u8
+http://he11o.akadatel.com/iptv/QRPX46AQ72XSVA/7292/index.m3u8
 #EXTINF:-1,TVP INFO
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 #EXTINF:-1 tvg-logo="https://imgur.com/fBRAxns.jpg",TV Republika
