@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/edem.xml.gz"
 #EXTINF:-1 tvg-id="9kanal-israel" tvg-logo="https://www.9tv.co.il/images/logo_ch9.png", 9 Channel Israel plus
-http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/2329/index.m3u8
+http://he11o.akadatel.com/iptv/KBDMQMYTHBMXED/12238/index.m3u8
 #EXTINF:-1 tvg-id="channel-11-il" tvg-logo="https://imgur.com/0rftidO.jpg", 11 Channel Kan
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXTINF:-1 tvg-id="channel-12-il" tvg-logo="https://imgur.com/Gx1N1CQ.jpg", 12 Channel Keshet
