@@ -3,7 +3,7 @@
 http://he11o.akadatel.com/iptv/QRPX46AQ72XSVA/9326/index.m3u8
 #EXTINF:-1 tvg-id="galaxy-tv",Galaxy
 http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/9317/index.m3u8
-#EXTINF:-1 tvg-id="6739" tvg-logo="http://epg.it999.ru/img2/6739.png" tvg-rec="0",LIBERTY НАУКА
+#EXTINF:-1 tvg-id="6739" tvg-logo="http://epg.it999.ru/img2/6739.png",LIBERTY НАУКА
 http://he11o.akadatel.com/iptv/HE8D3Q22CKXETZ/19305/index.m3u8
 #EXTINF:-1,Наука 2.0
 http://ip1.orgip.net/406/video.m3u8?token=S933AAA01B
@@ -39,7 +39,7 @@ http://myott.top/stream/L8UX4F5IIF/174.m3u8
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StqSz0q/PZ.jpg",Перший Західний
 http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/15271/index.m3u8
-#EXTINF:-1,НТА
+#EXTINF:-1 tvg-logo="https://iptvxcdn.ml/hta.png",НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3NRWLZp/SK.jpg",Суспільне Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
