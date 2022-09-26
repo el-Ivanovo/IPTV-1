@@ -25,7 +25,7 @@ http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
 http://iptv.prosto.tv:7000/ch31/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LNUBAzq.jpg",CGTN-Русский
 https://liveru.cgtn.com/cctv-r.m3u8
-#EXTINF:-1 tvg-id="UATV" tvg-logo="https://i.ibb.co/Bg76Vym/FD.jpg",FREEДОМ
+#EXTINF:-1 tvg-id="ua-tv" tvg-logo="https://i.ibb.co/Bg76Vym/FD.jpg",FREEДОМ
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/M3Tr2Lb.jpg",24 Украина
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
