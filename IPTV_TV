@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,https://epg.ovh/pl.xml"
 #EXTINF:-1,Discovery Science
 http://he11o.akadatel.com/iptv/QRPX46AQ72XSVA/9326/index.m3u8
-#EXTINF:-1,Galaxy
+#EXTINF:-1 tvg-id="galaxy-tv",Galaxy
 http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/9317/index.m3u8
 #EXTINF:-1 tvg-id="6739" tvg-logo="http://epg.it999.ru/img2/6739.png" tvg-rec="0",LIBERTY НАУКА
 http://he11o.akadatel.com/iptv/HE8D3Q22CKXETZ/19305/index.m3u8
@@ -20,7 +20,7 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist.m3u8
 #EXTINF:0,Евроновости
 http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/828/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/82VRVFw/BS.jpg",Белсат
-https://rsdt-waw1204-11.tvp.pl/token/video/live/17251711/20220926/1424337101/77264944-6823-450a-b253-d7a6a7821a14/stream_1.m3u8
+http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TqWH1mG/OstWest.png",OstWest
 http://iptv.prosto.tv:7000/ch31/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LNUBAzq.jpg",CGTN-Русский
