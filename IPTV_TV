@@ -45,8 +45,8 @@ http://he11o.akadatel.com/iptv/QRPX46AQ72XSVA/932/index.m3u8
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1,Fashion TV
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Телеканал Радио Страна ФМ" tvg-logo="https://imgur.com/5GSM497.jpg",Страна FM
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1,4ever Music
+http://91.213.59.156/play/86/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XO4exRB.jpg",1HD Music Television
 https://livetv.mylifeisgood.ml/channels/1hdmusic
 #EXTINF:-1 tvg-logo="https://imgur.com/bZYoAh0.jpg",Kronehit
