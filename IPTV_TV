@@ -47,7 +47,7 @@ http://he11o.akadatel.com/iptv/QRPX46AQ72XSVA/932/index.m3u8
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1,Fashion TV
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1,InRating
+#EXTINF:-1  tvg-logo="https://i.ibb.co/T1prGHD/inrating.png",InRating
 https://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bZYoAh0.jpg",Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
