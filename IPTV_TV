@@ -2,17 +2,17 @@
 #EXTINF:-1,Discovery Science
 http://he11o.akadatel.com/iptv/QRPX46AQ72XSVA/9326/index.m3u8
 #EXTINF:-1 tvg-id="galaxy-tv",Galaxy
-http://rseyizjc.ottclub.xyz/iptv/S24K3D74KXFLUH/5045/index.m3u8
+http://ua.iptv.monster/play/288/787E87B17019065/video.m3u8
 #EXTINF:-1 tvg-id="6739" tvg-logo="http://epg.it999.ru/img2/6739.png",LIBERTY НАУКА
 http://he11o.akadatel.com/iptv/QRPX46AQ72XSVA/19305/index.m3u8
 #EXTINF:-1,Наука 2.0
-http://myott.top/stream/DT6QU63K5VX/125.m3u8?checkedby:iptvcat.com
+http://ua.iptv.monster/play/155/787E87B17019065/video.m3u8
 #EXTINF:-1,H2
 http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/2033/index.m3u8
 #EXTINF:-1,Viasat History
-http://myott.top/stream/S26TQMJVPH/101.m3u8
+http://he11o.akadatel.com/iptv/6ZGLX36ACHFVGH/6002/index.m3u8
 #EXTINF:-1,Дождь
-http://myott.top/stream/S26TQMJVPH/210.m3u8
+http://ua.iptv.monster/play/988/787E87B17019065/video.m3u8
 #EXTINF:-1,RTVi
 http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/9102/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
@@ -21,12 +21,16 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist.m3u8
 http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/828/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/82VRVFw/BS.jpg",Белсат
 http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
+#EXTINF:-1,ETV+
+http://sb.err.ee/live/etvpluss.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TqWH1mG/OstWest.png",OstWest
 http://iptv.prosto.tv:7000/ch31/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LNUBAzq.jpg",CGTN-Русский
 https://liveru.cgtn.com/cctv-r.m3u8
 #EXTINF:-1 tvg-id="ua-tv" tvg-logo="https://i.ibb.co/Bg76Vym/FD.jpg",FREEДОМ
 http://myott.top/stream/S26TQMJVPH/63.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ro8pQ6P.jpg",Прямий
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M3Tr2Lb.jpg",24 Украина
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 #EXTINF:-1,Еспресо
@@ -34,7 +38,7 @@ http://he11o.akadatel.com/iptv/QRPX46AQ72XSVA/927/index.m3u8
 #EXTINF:-1,1+1
 http://he11o.akadatel.com/iptv/5Y9BNYM9C5YWHQ/6317/index.m3u8
 #EXTINF:-1,Iнтер HD
-http://myott.top/stream/S26TQMJVPH/174.m3u8
+http://iptv.prosto.tv:7000/ch5/video.m3u8?telegramm=yossotv
 #EXTINF:-1,Перший Діловий
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StqSz0q/PZ.jpg",Перший Західний
@@ -54,7 +58,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ecjYXwS.jpg",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W2zZ7vf/4evermusic.jpg",4ever Music
-http://myott.top/stream/S26TQMJVPH/400.m3u8
+http://ua.iptv.monster/play/9938/787E87B17019065/video.m3u8
 #EXTINF:-1,BBC World News
 http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/545/index.m3u8
 #EXTINF:-1,CNN
