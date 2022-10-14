@@ -21,7 +21,7 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist.m3u8
 http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/828/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/82VRVFw/BS.jpg",Белсат
 http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5343.png",ETV+
+#EXTINF:-1 tvg-id="etv-plus-ee" tvg-logo="http://epg.it999.ru/img2/5343.png",ETV+
 http://sb.err.ee/live/etvpluss.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TqWH1mG/OstWest.png",OstWest
 http://iptv.prosto.tv:7000/ch31/video.m3u8
