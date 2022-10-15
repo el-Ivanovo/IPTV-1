@@ -21,14 +21,12 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist.m3u8
 http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/828/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/82VRVFw/BS.jpg",Белсат
 http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="etv-plus-ee" tvg-logo="http://epg.it999.ru/img2/5343.png",ETV+
-http://sb.err.ee/live/etvpluss.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TqWH1mG/OstWest.png",OstWest
 http://iptv.prosto.tv:7000/ch31/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LNUBAzq.jpg",CGTN-Русский
 https://liveru.cgtn.com/cctv-r.m3u8
 #EXTINF:-1 tvg-id="ua-tv" tvg-logo="https://i.ibb.co/Bg76Vym/FD.jpg",FREEДОМ
-http://myott.top/stream/S26TQMJVPH/63.m3u8
+http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 tvg-logo="https://imgur.com/Ro8pQ6P.jpg",Прямий
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M3Tr2Lb.jpg",24 Украина
@@ -42,7 +40,7 @@ http://iptv.prosto.tv:7000/ch5/video.m3u8?telegramm=yossotv
 #EXTINF:-1,Перший Діловий
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StqSz0q/PZ.jpg",Перший Західний
-http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/15271/index.m3u8
+http://he11o.akadatel.com/iptv/QRPX46AQ72XSVA/15271/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P4kRLmP/NTA.jpg",НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/x5c2HML/Kvartal.jpg",Kvartal TV
@@ -65,6 +63,8 @@ http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/545/index.m3u8
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+#EXTINF:-1,France 24 English
+http://portal.ott.pink/watch/145/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1,Bloomberg
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FQCLH2o.jpg",Red Bull TV
