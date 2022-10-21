@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,https://epg.ovh/pl.xml"
 #EXTINF:-1,Discovery Science
-http://he11o.akadatel.com/iptv/QRPX46AQ72XSVA/9326/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/9326/index.m3u8
 #EXTINF:-1 tvg-id="galaxy-tv",Galaxy
 http://er2ok06w.otttv.pw/iptv/39S6ZDX562U4B3/2010/index.m3u8
 #EXTINF:-1 tvg-id="6739" tvg-logo="http://epg.it999.ru/img2/6739.png",LIBERTY НАУКА
-http://he11o.akadatel.com/iptv/QRPX46AQ72XSVA/19305/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/19305/index.m3u8
 #EXTINF:-1,Наука 2.0
 http://er2ok06w.otttv.pw/iptv/39S6ZDX562U4B3/2155/index.m3u8
 #EXTINF:-1,H2
@@ -32,19 +32,19 @@ http://95.67.21.100/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M3Tr2Lb.jpg",24 Украина
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 #EXTINF:-1,Еспресо
-http://he11o.akadatel.com/iptv/QRPX46AQ72XSVA/927/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/927/index.m3u8
 #EXTINF:-1,1+1
-http://he11o.akadatel.com/iptv/5Y9BNYM9C5YWHQ/6317/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/6317/index.m3u8
 #EXTINF:-1,Iнтер HD
 http://iptv.prosto.tv:7000/ch5/video.m3u8?telegramm=yossotv
 #EXTINF:-1,Перший Діловий
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StqSz0q/PZ.jpg",Перший Західний
-http://he11o.akadatel.com/iptv/QRPX46AQ72XSVA/15271/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/15271/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P4kRLmP/NTA.jpg",НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/x5c2HML/Kvartal.jpg",Kvartal TV
-http://he11o.akadatel.com/iptv/QRPX46AQ72XSVA/932/index.m3u8
+http://he11o.akadatel.com/iptv/TCEBUGASLX6WHN/932/index.m3u8
 #EXTINF:-1,World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1,Fashion TV
