@@ -6,7 +6,7 @@ http://d7fabe60.ucomist.net/iptv/BY26Q5PXXPMQQH/2010/index.m3u8
 #EXTINF:-1 tvg-id="6739" tvg-logo="http://epg.it999.ru/img2/6739.png",LIBERTY НАУКА
 http://he11o.akadatel.com/iptv/8PGL5D5A8QZC4E/19305/index.m3u8
 #EXTINF:-1,Наука 2.0
-http://ru.iptv.monster/play/155/DA9508247F11CC2/video.m3u8
+http://flu.ttk.mx:9090/Nauka/index.m3u8?token=orh6o
 #EXTINF:-1,H2
 http://vap4mfe1.russtv.net/iptv/ADNQDM2FZPGNM5/2033/index.m3u8
 #EXTINF:-1,Viasat History
