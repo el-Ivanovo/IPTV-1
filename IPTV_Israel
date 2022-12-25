@@ -16,9 +16,9 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24/index_2200.m3u
 #EXTINF:-1 tvg-id="2716" tvg-logo="https://i.ibb.co/Ws1WV6M/Hidabroot.jpg", 97 Channel Hidabroot
 https://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="2700", 98 Channel Mishelha
-http://he11o.akadatel.com/iptv/G96Y6Y593YYHFV/2369/index.m3u8
+http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/2369/index.m3u8
 #EXTINF:-1  tvg-id="4306" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/2560px-Knessetch10.svg.png", 99 Channel Knesset
-https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+http://he11o.akadatel.com/iptv/A68UKTSFGXMKZV/12269/index.m3u8
 #EXTINF:-1 tvg-id="2135" tvg-logo="https://imgur.com/8R1UWRw.jpg", Kabbalah
 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/J8jSn3P.jpg", Galgalatz
