@@ -7,7 +7,7 @@ http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5045/index.m3u8
 http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19305/index.m3u8
 #EXTINF:-1,Наука 2.0
 http://flu.ttk.mx:9090/Nauka/index.m3u8?token=orh6o
-#EXTINF:-1 tvg-id="2428",Nano HD
+#EXTINF:-1 tvg-id="nano-hd",Nano HD
 http://he11o.akadatel.com/iptv/Z9SX9ERTHFNSXU/2135/index.m3u8
 #EXTINF:-1,H2
 http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12095/index.m3u8
