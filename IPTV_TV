@@ -3,6 +3,9 @@
 http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9326/index.m3u8
 #EXTINF:-1 tvg-id="galaxy-tv",Galaxy
 http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5045/index.m3u8
+#EXTINF:-1 tvg-id="4778",KOSMO
+http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/11065/index.m3u8
+http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/11065/index.m3u8
 #EXTINF:-1 tvg-id="6739" tvg-logo="http://epg.it999.ru/img2/6739.png",LIBERTY НАУКА
 http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19305/index.m3u8
 #EXTINF:-1,Наука 2.0
