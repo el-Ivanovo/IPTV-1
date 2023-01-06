@@ -47,6 +47,8 @@ http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/15271/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P4kRLmP/NTA.jpg",НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1,Суспiльне Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/x5c2HML/Kvartal.jpg",Kvartal TV
 http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/932/index.m3u8
 #EXTINF:-1,World Fashion Channel
@@ -62,7 +64,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W2zZ7vf/4evermusic.jpg",4ever Music
 http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/970/index.m3u8
 #EXTINF:-1,BBC World News
-http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/545/index.m3u8
+http://portal.ott.pink/watch/93/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1,CNN
 http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/842/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",DW English
