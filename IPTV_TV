@@ -47,7 +47,7 @@ http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/15271/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P4kRLmP/NTA.jpg",НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="kultura-ua",Суспiльне Культура
+#EXTINF:-1 tvg-id="kultura-ua" tvg-logo="https://i.ibb.co/GkStmdc/SK.png",Суспiльне Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/x5c2HML/Kvartal.jpg",Kvartal TV
 http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/932/index.m3u8
