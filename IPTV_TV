@@ -1,24 +1,24 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,https://epg.ovh/pl.xml"
 #EXTINF:-1,Discovery Science
-http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9326/index.m3u8
+http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/9326/index.m3u8
 #EXTINF:-1 tvg-id="galaxy-tv",Galaxy
-http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5045/index.m3u8
+http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/5045/index.m3u8
 #EXTINF:-1 tvg-id="4778" tvg-logo="http://epg.it999.ru/img/4778.png",KOSMO
-http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/11065/index.m3u8
+http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/11065/index.m3u8
 #EXTINF:-1 tvg-id="6739" tvg-logo="http://epg.it999.ru/img2/6739.png",LIBERTY НАУКА
-http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19305/index.m3u8
+http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/19305/index.m3u8
 #EXTINF:-1,Наука 2.0
 http://flu.ttk.mx:9090/Nauka/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2428.png",Nano HD
 http://he11o.akadatel.com/iptv/Z9SX9ERTHFNSXU/2135/index.m3u8
 #EXTINF:-1,H2
-http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/12095/index.m3u8
+http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/12095/index.m3u8
 #EXTINF:-1,Viasat History
-http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6002/index.m3u8
+http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/6002/index.m3u8
 #EXTINF:-1,Дождь
-http://vap4mfe1.russtv.net/iptv/DSVPF5Z9B55L4A/2030/index.m3u8
+http://vap4mfe1.russtv.net/iptv/X562NLUZRV3FTM/2030/index.m3u8
 #EXTINF:-1,RTVi
-http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/9102/index.m3u8
+http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/9102/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p60mw6R.jpg",Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist.m3u8
 #EXTINF:0,Евроновости
@@ -32,25 +32,25 @@ https://liveru.cgtn.com/cctv-r.m3u8
 #EXTINF:-1 tvg-id="ua-tv" tvg-logo="https://i.ibb.co/Bg76Vym/FD.jpg",FREEДОМ
 http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 tvg-id="2212" tvg-logo="https://imgur.com/Ro8pQ6P.jpg",Прямий
-http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/1015/index.m3u8
+http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/1015/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M3Tr2Lb.jpg",24 Украина
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
 #EXTINF:-1,Еспресо
-http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/927/index.m3u8
+http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/927/index.m3u8
 #EXTINF:-1,1+1
-http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6317/index.m3u8
+http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/6317/index.m3u8
 #EXTINF:-1,Iнтер HD
 http://iptv.prosto.tv:7000/ch5/video.m3u8?telegramm=yossotv
 #EXTINF:-1,Перший Діловий
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StqSz0q/PZ.jpg",Перший Західний
-http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/15271/index.m3u8
+http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/15271/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P4kRLmP/NTA.jpg",НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 #EXTINF:-1,Суспiльне Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/x5c2HML/Kvartal.jpg",Kvartal TV
-http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/932/index.m3u8
+http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/932/index.m3u8
 #EXTINF:-1,World Fashion Channel
 http://alania08.tvclub.xyz/iptv/VM3SWPLYPTBT6B/1068/index.m3u8
 #EXTINF:-1,Fashion TV
@@ -62,11 +62,11 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ecjYXwS.jpg",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W2zZ7vf/4evermusic.jpg",4ever Music
-http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/970/index.m3u8
+http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/970/index.m3u8
 #EXTINF:-1,BBC World News
 http://portal.ott.pink/watch/93/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1,CNN
-http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/842/index.m3u8
+http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/842/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" tvg-name="DW Europe",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1,France 24 English
@@ -80,7 +80,7 @@ http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KNOuLKm.jpg",Каббала ТВ
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4496.png",TVP 1 HD
-http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/7292/index.m3u8
+http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/7292/index.m3u8
 #EXTINF:-1,TVP INFO
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 #EXTINF:-1 tvg-logo="https://imgur.com/fBRAxns.jpg",TV Republika
