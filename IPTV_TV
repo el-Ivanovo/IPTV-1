@@ -51,7 +51,7 @@ http://95.67.106.10/hls/nta_ua_hi/index.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/x5c2HML/Kvartal.jpg",Kvartal TV
 http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/932/index.m3u8
-#EXTINF:-1 tvg-id="hdfashion-lifestyle",Fashion & Lifestyle
+#EXTINF:-1 tvg-id="hdfashion-lifestyle" tvg-logo="https://i.ibb.co/TT2287P/FL.jpg",Fashion & Lifestyle
 http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/2412/index.m3u8
 #EXTINF:-1,Fashion TV
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -62,7 +62,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ecjYXwS.jpg",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W2zZ7vf/4evermusic.jpg",4ever Music
-http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/970/index.m3u8
+http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/15278/index.m3u8
 #EXTINF:-1,BBC World News
 http://portal.ott.pink/watch/93/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1,CNN
