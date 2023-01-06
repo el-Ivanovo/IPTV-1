@@ -31,7 +31,7 @@ http://iptv.prosto.tv:7000/ch31/video.m3u8
 https://liveru.cgtn.com/cctv-r.m3u8
 #EXTINF:-1 tvg-id="ua-tv" tvg-logo="https://i.ibb.co/Bg76Vym/FD.jpg",FREEДОМ
 http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 tvg-id="2212" tvg-logo="https://imgur.com/Ro8pQ6P.jpg",Прямий
+#EXTINF:-1 tvg-id="priamyj" tvg-logo="https://imgur.com/Ro8pQ6P.jpg",Прямий
 http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/1015/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M3Tr2Lb.jpg",24 Украина
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
@@ -47,12 +47,12 @@ http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/15271/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P4kRLmP/NTA.jpg",НТА
 http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-#EXTINF:-1,Суспiльне Культура
+#EXTINF:-1 ,Суспiльне Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/x5c2HML/Kvartal.jpg",Kvartal TV
 http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/932/index.m3u8
-#EXTINF:-1,World Fashion Channel
-http://alania08.tvclub.xyz/iptv/VM3SWPLYPTBT6B/1068/index.m3u8
+#EXTINF:-1 tvg-id="hdfashion-lifestyle",Fashion & Lifestyle
+http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/2412/index.m3u8
 #EXTINF:-1,Fashion TV
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/T1prGHD/inrating.png",InRating
