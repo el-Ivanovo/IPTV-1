@@ -31,7 +31,7 @@ http://iptv.prosto.tv:7000/ch31/video.m3u8
 https://liveru.cgtn.com/cctv-r.m3u8
 #EXTINF:-1 tvg-id="ua-tv" tvg-logo="https://i.ibb.co/Bg76Vym/FD.jpg",FREEДОМ
 http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 tvg-logo="https://imgur.com/Ro8pQ6P.jpg",Прямий
+#EXTINF:-1 tvg-id="2212" tvg-logo="https://imgur.com/Ro8pQ6P.jpg",Прямий
 http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/1015/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M3Tr2Lb.jpg",24 Украина
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
